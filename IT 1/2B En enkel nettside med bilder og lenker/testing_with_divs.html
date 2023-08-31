@@ -5,17 +5,37 @@
         <title>Experimenting with divs</title>
 
         <style>
-            .center {
-                border: 2px dashed red;
-                width: 50px;
-                height: 50px;
-                border-radius: 25px;
+            .flex {
+                display: flex;
+                flex-direction: column;
             }
+
+
+
+            .left {
+                order: 1;
+            }
+
+            .right {
+                order: 3;
+            }
+
+            .center {
+                order: 2;
+            }
+
         </style>
     </head>
 
 
     <body>
-        <div class="center"></div>
+        <div class="flex">
+            <div class="borders">
+                <div class="left">left</div>
+                <div class="right">right</div>
+            </div>
+
+            <div class="center">center</div>
+        </div>
     </body>
 </html>
