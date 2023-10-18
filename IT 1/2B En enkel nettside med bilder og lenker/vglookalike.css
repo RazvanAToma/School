@@ -1,0 +1,18 @@
+
+body {
+    background-color: rgb(36, 36, 36);
+}
+
+.artikkel {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.lastebil {
+    width: 400px;
+    height: auto;
+}
+.tekst {
+    font-size: 40px;
+    width: 400px;
+}
