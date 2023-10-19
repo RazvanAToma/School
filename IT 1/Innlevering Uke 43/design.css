@@ -5,12 +5,18 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* index.html */
+
 .title {
     background-color: rgb(245, 245, 247);
     padding-left: 15px; padding-right: 15px;
     display: flex;
     justify-content: space-between;
     margin-bottom: 0px;
+    font-family: magneto, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17.5px;
 }
 
 .search_button {
@@ -89,4 +95,37 @@ body {
     transition: 250ms;
     width: 100%;
     height: 100%
+}
+
+/* carsx.html */
+
+p {
+    font-size: 25px;
+}
+
+.general_info {
+    background-color: rgb(245, 245, 247);;
+    padding-left: 80px; padding-right: 40px; padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    margin-top: 40px;
+    background-color: rgb(245, 245, 247);;
+    width: 40%
+}
+
+.image {
+    background-color: rgb(245, 245, 247);;
+}
+
+.cars1image {
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+}
+
+.plot {
+    padding-top: 50px; padding-left: 80px; padding-right: 40px;
 }
