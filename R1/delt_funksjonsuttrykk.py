@@ -1,8 +1,8 @@
 def f(x):
     if x < 1:
-        return -2*x**2 + 4
+        return 7/10 * x
     else:
-        return x**2 - 4*x + 3
+        return x**1/2
 
 svar = input("Velg verdi for a:")    
 a = float(svar)
