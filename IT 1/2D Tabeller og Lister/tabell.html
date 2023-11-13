@@ -9,13 +9,18 @@
         .tHeader {
             background-color: #3f4259;
             color: #f6f7fa;
+            font-weight: bold;
         }
 
+        .hero {
+            min-height: 100vh;
+        }
 
         table {
             border-collapse: collapse;
             border-bottom: 2px solid #3f4259;
             text-align: center;
+            margin: auto;
         }
 
         tr, td {
@@ -23,14 +28,14 @@
             padding: 4px;
         }
 
-        .tBody:nth-child(odd) {
+        .tBody:nth-child(2n) {
             background-color: #f6f7fa;
-        } 
+        }
         
     </style>
 </head>
 <body>
-    <p class="oppgave1">Oppgave 1</p>
+    <!-- <p class="oppgave1">Oppgave 1</p>
     <table>
         <tr class="tHeader">
             <td>Navn</td>
@@ -58,11 +63,12 @@
             <td>Finale</td>
         </tr>
     </table>
-    <br>
+    <br> -->
 
 
-    <p class="oppgave3">Oppgave 3</p>
-    <table>
+    <!-- <p class="oppgave3">Oppgave 3</p> -->
+    <div class="hero">
+        <table>
         <tr class="tHeader">
             <td rowspan="2">Navn</td>
             <td rowspan="2">Nasjonalitet</td>
@@ -119,6 +125,7 @@
             <td>134.5</td>
             <td>18.0</td><td>17.5</td><td>18.5</td><td>18.0</td><td>18.5</td>
         </tr>
-    </table>
+        </table>
+    </div>
 </body>
 </html>
