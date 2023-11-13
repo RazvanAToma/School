@@ -3,9 +3,122 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Tabell</title>
+
+    <style>
+        .tHeader {
+            background-color: #3f4259;
+            color: #f6f7fa;
+        }
+
+
+        table {
+            border-collapse: collapse;
+            border-bottom: 2px solid #3f4259;
+            text-align: center;
+        }
+
+        tr, td {
+            border: 0.25vh solid #f6f5f4;
+            padding: 4px;
+        }
+
+        .tBody:nth-child(odd) {
+            background-color: #f6f7fa;
+        } 
+        
+    </style>
 </head>
 <body>
-    
+    <p class="oppgave1">Oppgave 1</p>
+    <table>
+        <tr class="tHeader">
+            <td>Navn</td>
+            <td>Dybde (m)</td>
+            <td>Land / Region</td>
+        </tr>
+        <tr>
+            <td>Mjøsa</td>
+            <td>449</td>
+            <td>Norge</td>
+        </tr>
+    </table>
+    <br>
+    <p class="oppgave2">Oppgave 2</p>
+    <table>
+        <tr class="tHeader">
+            <td>Dag 1</td>
+            <td>Dag 2</td>
+            <td>Dag 3</td>
+        </tr>
+
+        <tr>
+            <td>Gruppespill</td>
+            <td>Semifinale</td>
+            <td>Finale</td>
+        </tr>
+    </table>
+    <br>
+
+
+    <p class="oppgave3">Oppgave 3</p>
+    <table>
+        <tr class="tHeader">
+            <td rowspan="2">Navn</td>
+            <td rowspan="2">Nasjonalitet</td>
+            <td rowspan="2">Lengde Hopp (m)</td>
+            <td colspan="5" class="stilkarakter">Stilkarakter</td>
+        </tr>
+
+        <tr class="tHeader">
+            <td>Dommer 1</td>
+            <td>Dommer 2</td>
+            <td>Dommer 3</td>
+            <td>Dommer 4</td>
+            <td>Dommer 5</td>
+        </tr>
+
+        <tr class="tBody">
+            <td>Kamil Stoch</td>
+            <td>Polen</td>
+            <td>135.0</td>
+            <td>19.5</td><td>19.5</td><td>19.5</td><td>19.5</td><td>19.0</td>
+        </tr>
+
+        <tr class="tBody">
+            <td>Kamil Stoch</td>
+            <td>Polen</td>
+            <td>136.5</td>
+            <td>18.5</td><td>19.0</td><td>19.0</td><td>19.5</td><td>19.5</td>
+        </tr>
+
+        <tr class="tBody">
+            <td>Andreas Wellinger</td>
+            <td>Tyskland</td>
+            <td>135.5</td>
+            <td>19.0</td><td>19.0</td><td>19.0</td><td>19.0</td><td>19.5</td>
+        </tr>
+
+        <tr class="tBody">
+            <td>Andreas Wellinger</td>
+            <td>Tyskland</td>
+            <td>142.0</td>
+            <td>18.5</td><td>19.5</td><td>19.5</td><td>19.0</td><td>19.0</td>
+        </tr>
+
+        <tr class="tBody">
+            <td>Robert Johansson</td>
+            <td>Norge</td>
+            <td>137.5</td>
+            <td>17.5</td><td>18.0</td><td>18.5</td><td>18.0</td><td>18.0</td>
+        </tr>
+
+        <tr class="tBody">
+            <td>Robert Johansson</td>
+            <td>Norge</td>
+            <td>134.5</td>
+            <td>18.0</td><td>17.5</td><td>18.5</td><td>18.0</td><td>18.5</td>
+        </tr>
+    </table>
 </body>
 </html>
