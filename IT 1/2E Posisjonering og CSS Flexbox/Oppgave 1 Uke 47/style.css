@@ -49,3 +49,12 @@ img {
     margin-top: 4vh;
     border-radius: 15px;
 }
+
+ul {
+    list-style: none;
+    padding-top: 30px;
+}
+
+li {
+    margin: 10px;
+}
