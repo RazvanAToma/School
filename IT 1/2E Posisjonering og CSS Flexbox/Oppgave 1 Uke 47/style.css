@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: black;
+    background: linear-gradient(rgb(31, 31, 252), rgb(0, 140, 255));
+    min-height: 100vh;
+}
+
+
+.content {
+    text-align: center;
+    padding-top: 7vh;
+}
+
+.text {
+    font-size: 3em;
+}
+
+.things {
+    font-size: 1.3em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 7vh;
+}
+
+.thing {
+    width: 60vh;
+    height: 75vh;
+    background-color: white;
+    border-radius: 15px;
+    padding-top: 15px;
+}
+
+a {
+    color: black;
+    transition: 150ms;
+    text-decoration: none;
+    font-size: 1.3em;
+}
+a:hover {
+    font-size: 1.35em;
+}
+
+img {
+    margin-top: 4vh;
+    border-radius: 15px;
+}
