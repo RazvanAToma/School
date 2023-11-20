@@ -1,0 +1,47 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    min-height: 8.5vh;
+
+    position: sticky;
+    top: 0px;
+
+    background-color: white;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.venstreside {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 2px solid red;
+    width: 50vw;
+}
+
+.logosection {
+    display: flex;
+    align-items: center;
+}
+
+.logonavn {
+    margin-left: 7px;
+}
+
+.hoyreside {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 2px solid red;
+    width: 30vw;
+}
+
+.content {
+    min-height: 200vh;
+}
