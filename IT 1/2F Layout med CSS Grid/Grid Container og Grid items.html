@@ -10,29 +10,251 @@
         display: grid;
         width: 500px;
         height: 500px;
-        background-color: gray;
-        grid-template-columns: 2fr 2fr 2fr;
-        grid-template-rows: 2fr 2fr 2fr;
-        gap: 5px;
+        background-color: black;
+        grid-template-columns: repeat(3, 2fr);
+        grid-template-rows: repeat(3, 2fr);
+        gap: 2px;
         }
         
         .hoved > div {
-        background-color: #aac9c6;
+        background-color: rgba(255, 255, 255, 0.9);
         border: 1px solid black;
-    }
+        }
+
+        button {
+            min-width: 100%;
+            min-height: 100%;
+        }
     </style>
 </head>
 <body>
     <div class="hoved">
-        <div> 1 </div>
-        <div> 2 </div>
-        <div> 3 </div>
-        <div> 4 </div>
-        <div> 5 </div>
-        <div> 6 </div>
-        <div> 7 </div>
-        <div> 8 </div>
-        <div> 9 </div>
+        <div><button class="button 1" onclick="button1Clicked()"><span id="span1"></span></button></div>
+        <div><button class="button 2" onclick="button2Clicked()"><span id="span2"></span></button></div>
+        <div><button class="button 3" onclick="button3Clicked()"><span id="span3"></span></button></div>
+        <div><button class="button 4" onclick="button4Clicked()"><span id="span4"></span></button></div>
+        <div><button class="button 5" onclick="button5Clicked()"><span id="span5"></span></button></div>
+        <div><button class="button 6" onclick="button6Clicked()"><span id="span6"></span></button></div>
+        <div><button class="button 7" onclick="button7Clicked()"><span id="span7"></span></button></div>
+        <div><button class="button 8" onclick="button8Clicked()"><span id="span8"></span></button></div>
+        <div><button class="button 9" onclick="button9Clicked()"><span id="span9"></span></button></div>
       </div>
+      
+      <button class="clear" onclick="clear()">Clear</button>
+
+      <script>
+        let span1 = document.getElementById("span1");
+        let span2 = document.getElementById("span2");
+        let span3 = document.getElementById("span3");
+        let span4 = document.getElementById("span4");
+        let span5 = document.getElementById("span5");
+        let span6 = document.getElementById("span6");
+        let span7 = document.getElementById("span7");
+        let span8 = document.getElementById("span8");
+        let span9 = document.getElementById("span9");
+        var oddeven = 0
+
+        function button1Clicked() {
+            if(oddeven == 6){
+                span1.innerHTML = ('');
+                span2.innerHTML = ('');
+                span3.innerHTML = ('');
+                span4.innerHTML = ('');
+                span5.innerHTML = ('');
+                span6.innerHTML = ('');
+                span7.innerHTML = ('');
+                span8.innerHTML = ('');
+                span9.innerHTML = ('');
+            }
+            else if(oddeven % 2==0){
+                span1.innerHTML = ('X');
+                oddeven = oddeven + 1;
+            }
+            else {
+                span1.innerHTML = ('O');
+                oddeven = oddeven + 1;
+            }            
+        }
+        function button2Clicked() {
+            if(oddeven == 6){
+                span1.innerHTML = ('');
+                span2.innerHTML = ('');
+                span3.innerHTML = ('');
+                span4.innerHTML = ('');
+                span5.innerHTML = ('');
+                span6.innerHTML = ('');
+                span7.innerHTML = ('');
+                span8.innerHTML = ('');
+                span9.innerHTML = ('');
+            }
+            else if(oddeven % 2==0){
+                span2.innerHTML = ('X');
+                oddeven = oddeven + 1;
+            }
+            else {
+                span2.innerHTML = ('O');
+                oddeven = oddeven + 1;
+            }
+        }
+        function button3Clicked() {
+            if(oddeven == 6){
+                span1.innerHTML = ('');
+                span2.innerHTML = ('');
+                span3.innerHTML = ('');
+                span4.innerHTML = ('');
+                span5.innerHTML = ('');
+                span6.innerHTML = ('');
+                span7.innerHTML = ('');
+                span8.innerHTML = ('');
+                span9.innerHTML = ('');
+            }
+            else if(oddeven % 2==0){
+                span3.innerHTML = ('X');
+                oddeven = oddeven + 1;
+            }
+            else {
+                span3.innerHTML = ('O');
+                oddeven = oddeven + 1;
+            }
+        }
+        function button4Clicked() {
+            if(oddeven == 6){
+                span1.innerHTML = ('');
+                span2.innerHTML = ('');
+                span3.innerHTML = ('');
+                span4.innerHTML = ('');
+                span5.innerHTML = ('');
+                span6.innerHTML = ('');
+                span7.innerHTML = ('');
+                span8.innerHTML = ('');
+                span9.innerHTML = ('');
+            }
+            else if(oddeven % 2==0){
+                span4.innerHTML = ('X');
+                oddeven = oddeven + 1;
+            }
+            else {
+                span4.innerHTML = ('O');
+                oddeven = oddeven + 1;
+            }
+        }
+        function button5Clicked() {
+            if(oddeven == 6){
+                span1.innerHTML = ('');
+                span2.innerHTML = ('');
+                span3.innerHTML = ('');
+                span4.innerHTML = ('');
+                span5.innerHTML = ('');
+                span6.innerHTML = ('');
+                span7.innerHTML = ('');
+                span8.innerHTML = ('');
+                span9.innerHTML = ('');
+            }
+            else if(oddeven % 2==0){
+                span5.innerHTML = ('X');
+                oddeven = oddeven + 1;
+            }
+            else {
+                span5.innerHTML = ('O');
+                oddeven = oddeven + 1;
+            }
+        }
+        function button6Clicked() {
+            if(oddeven == 6){
+                span1.innerHTML = ('');
+                span2.innerHTML = ('');
+                span3.innerHTML = ('');
+                span4.innerHTML = ('');
+                span5.innerHTML = ('');
+                span6.innerHTML = ('');
+                span7.innerHTML = ('');
+                span8.innerHTML = ('');
+                span9.innerHTML = ('');
+            }
+            else if(oddeven % 2==0){
+                span6.innerHTML = ('X');
+                oddeven = oddeven + 1;
+            }
+            else {
+                span6.innerHTML = ('O');
+                oddeven = oddeven + 1;
+            }
+        }
+        function button7Clicked() {
+            if(oddeven == 6){
+                span1.innerHTML = ('');
+                span2.innerHTML = ('');
+                span3.innerHTML = ('');
+                span4.innerHTML = ('');
+                span5.innerHTML = ('');
+                span6.innerHTML = ('');
+                span7.innerHTML = ('');
+                span8.innerHTML = ('');
+                span9.innerHTML = ('');
+            }
+            else if(oddeven % 2==0){
+                span7.innerHTML = ('X');
+                oddeven = oddeven + 1;
+            }
+            else {
+                span7.innerHTML = ('O');
+                oddeven = oddeven + 1;
+            }
+        }
+        function button8Clicked() {
+            if(oddeven == 6){
+                span1.innerHTML = ('');
+                span2.innerHTML = ('');
+                span3.innerHTML = ('');
+                span4.innerHTML = ('');
+                span5.innerHTML = ('');
+                span6.innerHTML = ('');
+                span7.innerHTML = ('');
+                span8.innerHTML = ('');
+                span9.innerHTML = ('');
+            }
+            else if(oddeven % 2==0){
+                span8.innerHTML = ('X');
+                oddeven = oddeven + 1;
+            }
+            else {
+                span8.innerHTML = ('O');
+                oddeven = oddeven + 1;
+            }
+        }
+        function button9Clicked() {
+            if(oddeven == 6){
+                span1.innerHTML = ('');
+                span2.innerHTML = ('');
+                span3.innerHTML = ('');
+                span4.innerHTML = ('');
+                span5.innerHTML = ('');
+                span6.innerHTML = ('');
+                span7.innerHTML = ('');
+                span8.innerHTML = ('');
+                span9.innerHTML = ('');
+            }
+            else if(oddeven % 2==0){
+                span9.innerHTML = ('X');
+                oddeven = oddeven + 1;
+            }
+            else {
+                span9.innerHTML = ('O');
+                oddeven = oddeven + 1;
+            }
+        }
+      
+        function clear(){
+            span1.innerHTML = ('');
+            span2.innerHTML = ('');
+            span3.innerHTML = ('');
+            span4.innerHTML = ('');
+            span5.innerHTML = ('');
+            span6.innerHTML = ('');
+            span7.innerHTML = ('');
+            span8.innerHTML = ('');
+            span9.innerHTML = ('');
+        }
+      </script>
 </body>
 </html>
