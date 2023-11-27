@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 4</title>
+
+    <style>
+
+        .main{
+            width: 600px;
+            height: 400px;
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            grid-template-rows: repeat(3, 1fr);
+            gap: 15px;
+            grid-template-areas:
+            "otm tt tht ft ft"
+            "otm tmb tmb fm fmb"
+            "ob tmb tmb fb fmb";
+            border: 2px solid black;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .main > div{
+            background-color: rgb(170, 201, 198);
+            border-radius: 10px;
+        }
+
+        .onetopmid { grid-area: otm;}
+        .onebot { grid-area: ob;}
+        .twotop { grid-area: tt;}
+        .twomidbot { grid-area: tmb;}
+        .threetop { grid-area: tht;}
+        .threemidbot { grid-area: thmb;}
+        .fourtop { grid-area: ft;}
+        .fourmid { grid-area: fm;}
+        .fourbot { grid-area: fb;}
+        .fivemidbot { grid-area: fmb;}
+
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="onetopmid"></div>
+        <div class="onebot"></div>
+        <div class="twotop"></div>
+        <div class="twomidbot"></div>
+        <div class="threetop"></div>
+        <div class="threemidbot"></div>
+        <div class="fourtop"></div>
+        <div class="fourmid"></div>
+        <div class="fourbot"></div>
+        <div class="fourtop"></div>
+        <div class="fivemidbot"></div>
+    </div>
+
+</body>
+</html>
