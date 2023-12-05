@@ -1,0 +1,38 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo { grid-area: lo;}
+.logo_title { grid-area: lt;}
+.home { grid-area: h;}
+.sites { grid-area: si;}
+.links { grid-area: li;}
+.space { grid-area: sp;}
+.search { grid-area: se;}
+.searchmenu { grid-area: sm;}
+
+.header {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-areas:
+    "lo lt h si li sp sp sp se sm";
+    
+    justify-items: center;
+    align-items: center;
+    border-bottom: 1px solid black;
+    
+    font-size: 1.15em;
+    background-color: white;
+    
+    position: sticky;
+    top: 0px;
+}
+
+.header > div {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
