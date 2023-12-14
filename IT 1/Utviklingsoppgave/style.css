@@ -1,13 +1,98 @@
 * {
     margin: 0;
     padding: 0;
+    color: white;
 }
 
-body {
-    background: white;
+html, body {
+    background-color: rgb(18, 38, 58);
+    width: 100%;
+}
+
+
+.logo { grid-area: lo;}
+.logo_title { grid-area: lt;}
+.home { grid-area: h;}
+.sites { grid-area: si;}
+.links { grid-area: li;}
+.space { grid-area: sp;}
+.searchmenu { grid-area: sm;}
+
+.header {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-areas:
+    "lo lt h si li sp sp sp . sm";
+    
+    justify-items: center;
+    align-items: center;
+    
+    font-size: 1.15em;
+    background-color: rgb(18, 38, 58);
+    
+    position: sticky;
+    top: 0px;
+}
+
+.header > div {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.content {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.person1 { grid-area: p1;}
+.person2 { grid-area: p2;}
+
+.image{
+    width: 75%;
+    height: 100%;
 }
 
 .images {
+    margin-left: 50px;
     display: grid;
-    
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-areas:
+    "p2 p2 p2 p2 p1 p1 p1 p1"
+    "p2 p2 p2 p2 p1 p1 p1 p1";
 }
+
+.text1 { grid-area: t1;}
+.text2 { grid-area: t2;}
+
+.text {
+    margin-left: 50px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-areas:
+    "t2 t2 t2 . t1 t1 t1 ."
+    "t2 t2 t2 . t1 t1 t1 .";
+}
+
+img {
+    border-radius: 10px;
+}
+
+li {
+    margin: 25px;
+}
+
+.graph {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.graphtext {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
