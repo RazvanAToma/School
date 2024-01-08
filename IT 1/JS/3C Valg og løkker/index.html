@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let tall = 15;
+
+        let gjettet;
+
+        while (gjettet != tall) {
+            gjettet = Number(prompt("Gjett et tall: "))
+            if (gjettet === tall) {
+                alert("Gratulerer du gjetta riktig")
+            } else if (gjettet < tall){
+                alert("For lavt...")
+            } else if (gjettet > tall){
+                alert("For høyt...")
+            }
+        }      
+    </script>
+</body>
+</html>
