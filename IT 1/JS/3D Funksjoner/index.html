@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function hei()
+        {
+            console.log("Heisann");
+        }
+
+
+        
+        const hilsner = ["Hei", "Hallo", "God dag"];
+
+        function tilfeldigHilsen()
+        {
+            var index = Math.floor(Math.random()*hilsner.length);
+
+            console.log(hilsner[index])
+        }
+
+        tilfeldigHilsen()
+
+
+
+        function greet(name)
+        {
+            console.log(`Hei ${name}!`);
+        }
+
+        greet("Razvan");
+
+
+
+        function arealRektangel(lengde, bredde)
+        {
+            console.log(`Arealet er ${lengde*bredde} m^2`);
+        }
+
+        arealRektangel(10, 5)
+
+
+
+        function drawCats(amount)
+        {
+            var amount = amount++;
+
+            let printedAmount = 0;
+
+            const cat = "=^.^=";
+
+            while(printedAmount !== amount)
+            {
+                console.log(cat);
+                printedAmount++;
+            }
+            
+        }
+
+        drawCats(15)
+
+
+
+        function nameBadge(name)
+        {
+            let nameLength = name.length + 3;
+
+            let asteriskRow = "";
+
+            for(let asterisks = 0; asterisks < nameLength; asterisks++)
+            {
+                asteriskRow += "*";
+            }
+
+            console.log(`${asteriskRow}\n*${name}*\n${asteriskRow}`)
+        }
+
+        nameBadge('Razvan');
+    </script>
+</body>
+</html>
