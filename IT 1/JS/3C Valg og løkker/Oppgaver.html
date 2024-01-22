@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgaver</title>
+</head>
+<body>
+
+    Utfordring: Lag en løkke som skriver ut tallene fra 1 til 100. Hvis et tall er delelig på 3, skal du i stedet for tallet skrive "Fizz" ,
+    og hvis et tall er delelig på 5, skal du i stedet for tallet skrive "Buzz" .
+    Hvis et tall er delelig på både 3 og 5, skal du skrive "FizzBuzz" .
+    Husk at modulusoperatoren (% ) lar oss undersøke om et tall er delelig på et annet.
+
+
+    <button onclick="please()">Click to run</button>
+    <script>
+        function please() {
+            let x = 0;
+            while (x < 101) {
+            if (x % 3 === 0 && x % 5 === 0) {
+                console.log("FizzBuzz");
+            } else if (x % 3 === 0) {
+                console.log("Fizz");
+            } else if (x % 5 === 0) {
+                console.log("Buzz");
+            } else {
+                console.log(x);
+            }
+            x++;
+        }
+        }
+        
+    </script>
+</body>
+</html>
