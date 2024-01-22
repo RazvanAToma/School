@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 1</title>
+</head>
+<body>
+    <script>
+        const possible_outcomes = 
+        [
+            'Du fikk en hjerter eller spar 6 eller mindre',
+            'Du fikk en hjerter eller spar mellom 6 og 10',
+            'Du fikk en hjerter eller spar 10 eller mer',
+            'Du fikk en ruter eller kløver 13!'
+        ]
+
+        let choice = Math.floor(Math.random()*possible_outcomes.length)
+
+        console.log(possible_outcomes[choice])
+
+    </script>
+</body>
+</html>
