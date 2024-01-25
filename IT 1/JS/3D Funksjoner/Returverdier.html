@@ -12,19 +12,29 @@
             console.log(text);
         }
 
-
+        
         function arealTrekant(lengde, bredde)
         {
-            areal = (lengde * bredde)/2;
-            return areal;
+        areal = (lengde * bredde)/2;
+        return areal;
         }
-
+        
+        
         let lengde = prompt('Lengde:');
         let hoyde = prompt('Hoyde:');
 
-
-        print(`Arealet til trekanten er ${arealTrekant(lengde, hoyde)}`);
-
+        if (lengde <= 0)
+        {
+            print('Bruk tall over null...');
+        }
+        else if (hoyde <= 0)
+        {
+            print('Bruk tall over null...');
+        }
+        else
+        {
+            print(`Arealet til trekanten er ${arealTrekant(lengde, hoyde)}`);
+        }
     </script>
 </body>
 </html>
