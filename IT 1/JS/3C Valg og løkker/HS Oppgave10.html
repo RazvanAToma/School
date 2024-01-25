@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 10</title>
+</head>
+<body>
+    <script>
+        function print(text)
+        {
+            console.log(text);
+        }
+
+
+        let dice_face = Math.floor(Math.random() * 100)
+
+        if (dice_face <= 34)
+        {
+            print("Du fikk 34 eller mindre");
+        } else if (dice_face > 34 && dice_face < 60)
+        {
+            print("Du fikk mellom 34 og 60");
+        } else if (dice_face >= 61)
+        {
+            print("Du fikk 61 eller mer");
+        } else
+        {
+            print("Du fikk 60!");
+        }
+
+
+    </script>
+</body>
+</html>
