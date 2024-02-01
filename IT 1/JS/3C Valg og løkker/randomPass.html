@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let alphabet = "abcdefghijklmnopqrstuvwxyzæøå";
+
+        let alphabetUpper = alphabet.toUpperCase();
+
+        let specialSymbols = "!@#$%^&*()_+="
+
+        let randomPass = ''
+
+
+        while (randomPass.length < 9)
+        {
+            let pickList = Math.floor(Math.random() * 3);
+
+            if (pickList == 0)
+            {
+                let randomLetter = alphabet[Math.floor(Math.random() * alphabet.length)];
+
+                randomPass += randomLetter;
+            }
+            else if (pickList == 1)
+            {
+                let randomLetter = alphabetUpper[Math.floor(Math.random() * alphabetUpper.length)];
+
+                randomPass += randomLetter;
+            }
+            else if (pickList == 2)
+            {
+                let randomLetter = specialSymbols[Math.floor(Math.random() * specialSymbols.length)];
+
+                randomPass += randomLetter;
+            }
+        }
+
+        console.log(randomPass);
+        
+        
+    </script>
+</body>
+</html>
