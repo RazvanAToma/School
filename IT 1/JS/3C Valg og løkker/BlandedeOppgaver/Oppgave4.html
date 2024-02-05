@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 4</title>
+</head>
+<body>
+    <script>
+        // a
+
+        function lotterimaskin(spillerTall, antallSpill)
+        {
+            for (antallSpill; antallSpill != 0; antallSpill -= 1)
+            {
+                let vinnerNummer = Math.ceil(Math.random()* 50);
+                if (vinnerNummer == spillerTall)
+                {
+                    return "Du vant!";
+                }
+            }
+
+            return "Du vant ikke..."
+        }
+
+        console.log(lotterimaskin(12, 15));
+
+
+        
+        // b
+
+        const vokaler = "aeiouyæøå";
+        const konsonanter = "bcdfghjkllmnpqrstvwxz";
+
+        let ord = "";
+
+        for (let ordLengde = 0; ordLengde != 6; ordLengde = ord.length)
+        {
+            let randVokal = vokaler[Math.floor(Math.random() * vokaler.length)];
+            let randKonsonant = konsonanter[Math.floor(Math.random() * konsonanter.length)];
+
+            ord += randKonsonant;
+            ord += randVokal;
+        }
+
+        console.log(ord);
+    </script>
+</body>
+</html>
