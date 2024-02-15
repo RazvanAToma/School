@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // 1
+        let primtall = [7, 11, 13, 17, 19, 23, 43, 47, 53, 59, 61, 67];
+
+
+        // 2
+        function printPrimes(array)
+        {
+            for (let i = 0; i < array.length; i += 1)
+            {
+            console.log(primtall[i]);
+            }
+        }
+        
+        printPrimes(primtall);
+        
+
+        // 3
+        primtall.push(71, 73, 79, 83, 89, 97);
+
+        
+        // 4
+        printPrimes(primtall);
+    </script>
+</body>
+</html>
