@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // a
+
+        numbers = [];
+
+        function fillArray(arr, nums)
+        {
+            while (nums != 0)
+            {
+                arr.push(Math.floor(Math.random() * 100));
+                nums -= 1;
+            }
+        }
+
+        // b
+        fillArray(numbers, 50);
+        console.log(numbers);
+
+        // c
+        function compareFunc(a, b)
+        {
+            return a - b;
+        }
+
+        console.log(numbers.sort(compareFunc));
+        console.log(numbers.reverse());
+
+        // d
+        console.log(`Biggest: ${numbers[0]}, Smallest: ${numbers[numbers.length-1]}`);
+
+        // e
+
+        function removeEven(arr)
+        {
+            for (let i = 0; i < arr.length; i += 1)
+            {
+                if (arr[i] % 2 == 0)
+                {
+                    delete arr[i];
+                }
+            }
+        }
+
+        removeEven(numbers);
+
+        console.log(numbers);
+    </script>
+</body>
+</html>
