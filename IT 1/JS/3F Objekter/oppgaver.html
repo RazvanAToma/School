@@ -17,7 +17,45 @@
             favorittmat: ['steak', 'burger', 'sushi']
         };
 
-        
+        console.log(meg);
+
+        for (greie in meg)
+        {
+            console.log(greie);
+            console.log(meg[greie]);
+        }
+
+        meg.favorittall = 30;
+
+        console.log(meg);
+
+        meg.favorittFarge = "green";
+
+        console.log(meg);
+
+        delete meg.favorittFarge;
+
+        console.log(meg);
+
+        let person = {
+            fornavn: "Razvan",
+            etternavn: "Toma",
+            fullNavn: function()
+            {
+                return `${this.fornavn} ${this.etternavn}`;
+            }
+        }
+
+        console.log(person.fullNavn());
+
+
+        // Oppgave 2
+
+        let bilmerker = [
+            { bilmerke: "Ford", land: "Tyskland" },
+            { bilmerke: "Lexus", land: "Japan" },
+            { bilmerke: "Cadillac", land: "USA" }
+        ];
     </script>
 </body>
 </html>
