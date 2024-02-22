@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 1</title>
+</head>
+<body>
+    <script>
+        let informasjonsteknologi1 = {
+        spraak: ["HTML", "CSS"],
+        likerFaget: false,
+        timetall: 5,
+        klasserom: "C14",
+        antallElever: 24
+        };
+
+        console.log(informasjonsteknologi1);
+
+
+
+        function addLang(lang)
+        {
+            informasjonsteknologi1.spraak.push(lang);
+        }
+
+        addLang("JavaScript");
+
+        console.log(informasjonsteknologi1);
+
+
+
+        function students(num)
+        {
+            informasjonsteknologi1.antallElever = num;
+        }
+
+        students(25);
+
+        console.log(informasjonsteknologi1);
+
+
+        delete informasjonsteknologi1.timetall;
+
+        console.log(informasjonsteknologi1);
+
+
+
+        for (let i = 0; i < informasjonsteknologi1.spraak.length; i += 1)
+        {
+            console.log(informasjonsteknologi1.spraak[i]);
+        }
+
+
+        for (item in informasjonsteknologi1)
+        {
+            console.log(item);
+        }
+
+
+        for (item in informasjonsteknologi1)
+        {
+            console.log(informasjonsteknologi1[item]);
+        }
+
+
+
+    </script>
+</body>
+</html>

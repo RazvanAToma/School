@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let filmer = [
+            {
+                tittel: "Interstellar",
+                regissor: "Christopher Nolan",
+                sett: true
+            },
+            {
+                tittel: "The Hunger Games",
+                regissor: "Gary Ross",
+                sett: true
+            },
+            {
+                tittel: "The Pursuit of Happyness",
+                regissor: "Gabriele Muccino",
+                sett: true
+            },
+            {
+                tittel: "Smile",
+                regissor: "Parker Finn",
+                sett: true
+            },
+            {
+                tittel: "A few good men",
+                regissor: "Rob Reiner",
+                sett: true
+            },
+
+            {
+                tittel: "The Thing",
+                regissor: "Matthijs van Heijningen Jr.",
+                sett: false
+            },
+            {
+                tittel: "The Little Things",
+                regissor: "John Lee Hancock",
+                sett: false
+            },
+            {
+                tittel: "Parker",
+                regissor: "Taylor Hackford",
+                sett: false
+            },
+            {
+                tittel: "Geostorm",
+                regissor: "Dean Devlin",
+                sett: false
+            },
+            {
+                tittel: "The Gray",
+                regissor: "Joe Carnahan",
+                sett: false
+            },
+        ];
+
+
+        for (let i = 0; i < filmer.length; i += 1)
+        {
+            if (filmer[i].sett)
+            {
+                console.log(`Du har sett ${filmer[i].tittel} av ${filmer[i].regissor}`)
+            }
+            else
+            {
+                console.log(`Du har ikke sett ${filmer[i].tittel} av ${filmer[i].regissor}`)
+            }
+        }
+
+    </script>
+</body>
+</html>
