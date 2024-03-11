@@ -14,19 +14,68 @@
             bredde: 6,
             areal: 24,
             omkrets: 20,
-            info: function() {
-                for(key in figur1)
-                {
-                    console.log(`${key}: ${figur1[key]}`);
-                }
-            }
+            // logAll: function()
+            // {
+            //     let keys = 0;
+
+            //     for(key in figur1)
+            //     {
+            //        console.log(`${key}: ${figur1[key]}`);
+            //        keys += 1;
+            //     }
+
+            //     console.log(`There are ${keys} keys`);
+            // }
         };
 
-        figur1.info();
+        // figur1.logAll();
+
+
+        let figur2 = {
+            form: "rektangel",
+            lengde: 4,
+            bredde: 6,
+            areal: 24,
+            omkrets: 20
+        };
+
+        let figur3 = {
+            form: "rektangel",
+            lengde: 9,
+            bredde: 1,
+            omkrets: 20
+        };
+
+        let figur4 = {
+            form: "kvadrat",
+            lengde: 4,
+            bredde: 4,
+            areal: 16
+        };
+
+        let figur5 = {
+            form: "kvadrat",
+            lengde: 6,
+            bredde: 6
+        };
+
+        function compareFunc(obj1, obj2)
+        {
+            for(key in obj1)
+            {
+                if (obj1[key] != obj2[key])
+                {
+                    return (`De er ikke like`);
+                }
+            }
+
+            return("De er like");
+
+        }
+        console.log(compareFunc(figur1, figur2));
+
 
         
-
-
     </script>
 </body>
 </html>
