@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgaver</title>
+
+
+    <style>
+        .liste
+        {
+            border: 3px solid red;
+            max-width: max-content;
+        }
+
+        .blue
+        {
+            border: 3px solid blue;
+            max-width: max-content;
+        }
+    </style>
+</head>
+<body>
+    <h1>Overskrift</h1>
+    <p class="a1">Avsnitt 1</p>
+    <p class="a2">Avsnitt 2</p>
+
+    <script>
+        let h1El = document.querySelector("h1");
+        h1El.innerHTML = "Ny Overskrift";
+
+        let pEl = document.querySelector(".a1");
+        pEl.innerHTML = "Nytt avsnitt 1";
+
+        pEl = document.querySelector(".a2");
+        pEl.innerHTML = "Nytt avsnitt 2"
+
+        let bodyEl = document.querySelector("body");
+        bodyEl.innerHTML += "<table><thead><tr><th>Overskrift 1</th><th>Overskrift 2</th></tr></thead><tbody><tr><th>Innhold 1</th><th>Innhold 2</th></tr></tbody></table>";
+
+
+        let ordnetListe = "";
+        ordnetListe += "<ol>";
+        ordnetListe += "<li>A</li>";
+        ordnetListe += "<li>B</li>";
+        ordnetListe += "<li>C</li>";
+        ordnetListe += "<li>D</li>";
+        ordnetListe += "<li class='liste'>E</li>";
+        ordnetListe += "</ol>";
+
+        bodyEl = document.querySelector("body");
+        bodyEl.innerHTML += ordnetListe;
+
+        h1El = document.querySelector("h1");
+        h1El.className = "blue";
+
+        let listeEl = document.querySelector(".liste")
+        listeEl.className = "";
+    </script>
+</body>
+</html>
