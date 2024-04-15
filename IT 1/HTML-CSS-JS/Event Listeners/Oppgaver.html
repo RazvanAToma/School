@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <style>
+        body {
+            background-color: #f5f5f5; 
+            font-family: Georgia, serif;
+        }
+        
+        .hoved {
+            width: 60%;                  
+            margin: 50px auto;          
+            padding: 40px;	             
+            background-color: white; 	 
+            border: 1px solid #cccccc; 
+        }
+        
+        h1, h2 {
+            font-family: Arial, sans-serif; 
+            cursor: pointer;               
+        }
+        
+        .coloredBorder {
+            border: 2px solid red;
+        }
+
+        .coloredBorder2 {
+            border: 2px solid blue;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="hoved">
+        <p onclick="setClass()">Litt Tekst</p>
+        
+        <h1>Du har trykket på meg 0 ganger.</h1>
+    </div>
+    
+
+    <script>
+        let overskriftEl = document.querySelector("h1");
+        overskriftEl.addEventListener("click", skrivAntall);
+            
+        let antallTrykk = 0;
+        
+        function skrivAntall()
+        {
+            if (antallTrykk != 10)
+            {
+                antallTrykk++;
+                overskriftEl.innerHTML = "Du har trykket på meg " + antallTrykk + " ganger.";
+            }
+            else
+            {
+                overskriftEl.removeEventListener;
+                overskriftEl.innerHTML = "Nå har du klikket 10 ganger, nå får du ikke klikke mer!";
+            }
+            
+        }
+            
+            
+        let pEl = document.querySelector("p");
+            
+        function setClass()
+        {
+            if (pEl.className == "coloredBorder")
+            {
+                pEl.className = "coloredBorder2"
+            }
+            else
+            {
+                pEl.className = "coloredBorder";
+            }
+        }
+    </script>
+</body>
+</html>

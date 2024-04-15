@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 6</title>
+
+    <style>
+        body {
+            background-color: #f5f5f5;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .main {
+            width: 60%;                  
+            margin: 50px auto;          
+            padding: 40px;	             
+            background-color: white; 	 
+            border: 1px solid #cccccc;
+
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+
+        .red    {background-color: red;}
+        .yellow {background-color: yellow;}
+        .green  {background-color: green;}
+
+        .red, .yellow, .green {
+            width: 30%;
+            height: 250px;
+            margin-top: 0px;
+            margin-bottom: 10px;
+        }
+
+        .text {
+            margin: auto;
+            font-weight: bold;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="main">
+        <p class="red"><br></p>
+        <p class="yellow"><br></p>
+        <p class="green"><br></p>
+
+        <p class="text">Klikk på den røde firkanten</p>
+    </div>
+
+    
+    <script>
+        let redEl = document.querySelector(".red");
+        let yellowEl = document.querySelector(".yellow");
+        let greenEl = document.querySelector(".green");
+        let textEl = document.querySelector(".text");
+
+        redEl.addEventListener("click", stepOne);
+
+        function stepOne()
+        {
+            textEl.innerHTML = "Før musepekeren over den gule firkanten";
+            redEl.removeEventListener("click", stepOne);
+            yellowEl.addEventListener("mouseover", stepTwo);
+        }
+
+        function stepTwo()
+        {
+            textEl.innerHTML = "Dobbeltklikk på den grønne firkanten";
+            yellowEl.removeEventListener("mouseover", stepTwo);
+            greenEl.addEventListener("dblclick", stepThree);
+        }
+
+        function stepThree()
+        {
+            textEl.innerHTML = "Trykk på teksten";
+            yellowEl.removeEventListener("dblclick", stepThree);
+            textEl.addEventListener("click", stepRepeat);
+        }
+
+        function stepRepeat()
+        {
+            textEl.innerHTML = "Klikk på den røde firkanten";
+            textEl.removeEventListener("click", stepRepeat);
+            redEl.addEventListener("click", stepOne);
+        }
+    </script>
+</body>
+</html>
