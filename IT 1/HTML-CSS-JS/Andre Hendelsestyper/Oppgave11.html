@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 11</title>
+
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            width: 100vw;
+        }
+
+        h1, h2 {
+            margin-right: 5px;
+        }
+
+        .main {
+            margin-top: auto;
+            margin-bottom: auto;
+            width: auto;
+            height: auto;
+        }
+
+        .q, .inpArea, .letter {
+            display: flex;
+            align-items: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="q">
+            <h1>ASCII kode:</h1>
+
+            <h1 class="asciiCode">65</h1>
+        </div>
+        
+
+        <div class="inpArea">
+            <h1>Bokstav:</h1>
+
+            <input type="text" class="userInp">
+        </div>
+        
+
+        <div class="letter">
+            <h1>Du skrev:</h1>
+
+            <h1 class="asciiInputted"></h1>
+        </div>
+
+
+        <script>
+            let asciiCodeEl = document.querySelector(".asciiCode");
+            let userInpEl = document.querySelector(".userInp");
+            let asciiInputtedEl = document.querySelector(".asciiInputted");
+
+            userInpEl.addEventListener("focus", addKeyDownListener);
+
+            function addKeyDownListener()
+            {
+                userInpEl.addEventListener("keydown", check);
+            }
+
+            function check(e) {
+                if (e.code == "Enter")
+                {
+                    let letter = userInpEl.value;
+
+                    if (letter.charCodeAt(0) == asciiCodeEl.innerHTML)
+                    {
+                        asciiInputtedEl.innerHTML = "riktig!";
+
+                        let difference = 90 - 65;
+
+                        let rand = Math.floor(Math.random() * difference);
+
+                        asciiCodeEl.innerHTML = rand + 65;
+                    }
+                    else
+                    {
+                        asciiInputtedEl.innerHTML = letter.charCodeAt(0);   
+                    }
+                }
+            }
+        </script>
+</body>
+</html>

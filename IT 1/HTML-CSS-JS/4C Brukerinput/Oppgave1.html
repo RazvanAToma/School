@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 1</title>
+
+    <style>
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: antiquewhite;
+            width: 100vw;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+
+        .main {
+            display: flex;
+            flex-direction: column;
+            width: 50%;
+            margin: auto;
+        }
+
+        label, button {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <label for="name">Name:</label>
+        <input type="text" placeholder="John Doe" class="name">
+    
+        <label for="phoneNmbr">Phone Number:</label>
+        <input type="number" class="phoneNmbr">
+
+        <label for="about">About:</label>
+        <textarea class="about" cols="30" rows="10" placeholder="About yourself"></textarea>
+
+        <label for="year">Year:</label>
+        <select class="year">
+            <option value="vg1">Vg1</option>
+            <option value="vg2">Vg2</option>
+            <option value="vg3">Vg3</option>
+        </select>
+
+
+        <button onclick="register()" class="regButton">Register</button>
+    </div>
+    
+    <script>
+        let nameEl = document.querySelector(".name");
+        let phoneNmbrEl = document.querySelector(".phoneNmbr");
+        let aboutEl = document.querySelector(".about");
+        let yearEl = document.querySelector(".year");
+
+        function register()
+        {
+            console.log(`Name: ${nameEl.value}`);
+            console.log(`Phone Number: ${phoneNmbrEl.value}`);
+            console.log(`About: ${aboutEl.value}`);
+            console.log(`Year: ${yearEl.value}`);
+        }
+    </script>
+</body>
+</html>
