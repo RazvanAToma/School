@@ -14,9 +14,9 @@
 
         body {
             font-family: 'Times New Roman', Times, serif;
-            background-color: antiquewhite;
+            background-color: white;
             width: 100vw;
-            height: 100vh;
+            height: 140vh;
             margin: 0;
             padding: 0;
         }
@@ -28,6 +28,64 @@
             margin: auto;
         }
 
+        .carddiv {
+            margin-top: 30px;
+            position: relative;
+            text-align: center;
+            color: white;
+        }
+
+        .namearea
+        {
+            position: absolute;
+            top: 80px;
+            left: 210px;
+            font-size: 20px;
+            width: 200px;
+        }
+
+        .phonearea
+        {
+            position: absolute;
+            top: 226px;
+            left: 108px;
+        }
+
+        .mailarea
+        {
+            position: absolute;
+            top: 246px;
+            left: 108px;
+        }
+
+        .addarea
+        {
+            position: absolute;
+            top: 266px;
+            left: 108px;
+        }
+
+        .companynamearea
+        {
+            position: absolute;
+            top: 285px;
+            right: 50px;
+            width: 190px;
+            font-size: 25px;
+        }
+
+        .sloganarea
+        {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            position: absolute;
+            top: 320px;
+            right: 50px;
+            width: 200px;
+            font-size: 15px;
+        }
+
         label, button {
             margin-top: 10px;
         }
@@ -35,38 +93,70 @@
 </head>
 <body>
     <div class="main">
+        <h1>Visittkort info:</h1>
+
+        <label for="compName">Bedriftens Navn:</label>
+        <input type="text" placeholder="Google" class="compName">
+
+        <label for="compSlogan">Motto:</label>
+        <input type="text" placeholder="Built Tough" class="compSlogan">
+
         <label for="name">Name:</label>
         <input type="text" placeholder="John Doe" class="name">
     
         <label for="phoneNmbr">Phone Number:</label>
-        <input type="number" class="phoneNmbr">
+        <input type="number" placeholder="999 99 999" class="phoneNmbr">
+
+        <label for="mail">Mail:</label>
+        <input type="text" class="mail" placeholder="john.doe@gmail.com">
+
+        <label for="adresse">Adresse:</label>
+        <input type="text" class="adresse" placeholder="Industrigata 5, 3400 Lier">
 
         <label for="about">About:</label>
         <textarea class="about" cols="30" rows="10" placeholder="About yourself"></textarea>
 
-        <label for="year">Year:</label>
-        <select class="year">
-            <option value="vg1">Vg1</option>
-            <option value="vg2">Vg2</option>
-            <option value="vg3">Vg3</option>
-        </select>
-
 
         <button onclick="register()" class="regButton">Register</button>
+
+
+        <div class="carddiv">
+            <div class="card">
+                <img src="busicard.png" alt="businesscard template", width="100%", height="100%">
+                <div class="namearea">John Doe</div>
+                <div class="phonearea">+47</div>
+                <div class="mailarea">john.doe@gmail.com</div>
+                <div class="addarea">Industriveien 5, 3500 Lier</div>
+                <div class="companynamearea">Industri</div>
+                <div class="sloganarea">Skoda: Simply Clever</div>
+            </div>
+        </div>
     </div>
     
     <script>
+        let compNameEl = document.querySelector(".compName");
+        let compSloganEl = document.querySelector(".compSlogan");
         let nameEl = document.querySelector(".name");
         let phoneNmbrEl = document.querySelector(".phoneNmbr");
+        let mailEl = document.querySelector(".mail");
+        let adresseEl = document.querySelector(".adresse");
         let aboutEl = document.querySelector(".about");
-        let yearEl = document.querySelector(".year");
+
+        let companyNameAreaEl = document.querySelector(".companynamearea")
+        let sloganEl = document.querySelector(".sloganarea");
+        let nameareaEl = document.querySelector(".namearea");
+        let phoneareaEl = document.querySelector(".phonearea");
+        let mailareaEl = document.querySelector(".mailarea");
+        let addareaEl = document.querySelector(".addarea");
 
         function register()
         {
-            console.log(`Name: ${nameEl.value}`);
-            console.log(`Phone Number: ${phoneNmbrEl.value}`);
-            console.log(`About: ${aboutEl.value}`);
-            console.log(`Year: ${yearEl.value}`);
+            nameareaEl.innerHTML = nameEl.value;
+            companyNameAreaEl.innerHTML = compNameEl.value;
+            sloganEl.innerHTML = compSloganEl.value;
+            phoneareaEl.innerHTML += phoneNmbrEl.value;
+            mailareaEl.innerHTML = mailEl.value;
+            addareaEl.innerHTML = adresseEl.value;
         }
     </script>
 </body>
