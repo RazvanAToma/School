@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 2 - Bloggnettside</title>
+
+    <style>
+        body
+        {
+            width: 98vw;
+            padding: 0;
+            margin: 0;
+
+            background-color: ghostwhite;
+            color: black;
+
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .main
+        {
+            width: 50%;
+            height: 90%;
+            margin: auto;
+        }
+
+        .header, .text, .signature
+        {
+            display: flex;
+            flex-direction: column;
+            margin-top: 30px;
+        }
+
+        .register
+        {
+            display: flex;
+            justify-content: center;
+
+            margin-top: 30px;
+        }
+
+        .register_btn
+        {
+            height: 40px;
+            width: 200px;
+            font-size: 18px;
+        }
+
+        input
+        {
+            font-size: 48px;
+        }
+
+        textarea, label
+        {
+            font-size: 24px;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="main">
+
+        <div class="create_post">
+
+            <div class="header">
+                <label for="header_input">Overskrift:</label>
+                <input type="text" class="header_input" maxlength="34">
+            </div>
+
+            <div class="text">
+                <label for="text_input">Tekst:</label>
+                <textarea class="text_input" cols="30" rows="15"></textarea>
+            </div>
+
+            <div class="signature">
+                <label for="signature_input">Signatur:</label>
+                <input type="text" class="signature_input">
+            </div>
+
+            <div class="register">
+                <button class="register_btn" onclick="register()">Legg Til Blogginnlegg</button>
+            </div>
+
+            <div class="posts"></div>
+
+        </div>
+
+    </div>
+
+    <script>
+        let header_inputEl = document.querySelector(".header_input");
+        let text_inputEl = document.querySelector(".text_input");
+        let signature_inputEl = document.querySelector(".signature_input");
+        let postsEl = document.querySelector(".posts");
+
+        function register()
+        {
+            const time = new Date();
+            console.log(time);
+
+            if (header_inputEl.value && text_inputEl.value && signature_inputEl.value)
+            {
+                let newPostDiv = document.createElement("div");
+
+                newPostDiv.innerHTML = `<p><strong>Dato:</strong> ${time}</p>
+                                        <h3>${header_inputEl.value}</h3>
+                                        <p>${text_inputEl.value}</p>
+                                        <p><strong>Signatur:</strong> ${signature_inputEl.value}</p><hr>`;
+
+                postsEl.insertBefore(newPostDiv, postsEl.firstChild);
+
+                header_inputEl.value = "";
+                text_inputEl.value = "";
+                signature_inputEl.value = "";
+            }   
+        }
+
+
+    </script>
+</body>
+</html>
