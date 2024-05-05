@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test</title>
+
+    <style>
+        body
+        {
+            height: 100vh;
+            width: 100vw;
+            padding: 0;
+            margin: 0;
+        }
+
+        .logo { grid-area: logo;}
+        .home { grid-area: home;}
+        .search { grid-area: search;}
+
+        .logo, .home, .search
+        {
+            border: 2px solid red
+        }
+
+        .header {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            grid-template-areas:
+            "logo home search . . . .";
+        }
+
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="header">
+            <p class="logo">Simply</p>
+            <p class="home">Home</p>
+            <p class="search">Search</p>
+        </div>
+    </div>
+</body>
+</html> 
