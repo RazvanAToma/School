@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 1</title>
+
+    <style>
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: white;
+            width: 100vw;
+            height: 140vh;
+            margin: 0;
+            padding: 0;
+        }
+
+        .main {
+            display: flex;
+            flex-direction: column;
+            width: 50%;
+            margin: auto;
+        }
+
+        .carddiv {
+            position: relative;
+            margin-top: 30px;
+            text-align: center;
+            color: red;
+
+            border: 2px solid red
+        }
+
+        .namearea{ grid-area: namearea;}
+
+        .phonearea{ grid-area: phonarea;}
+
+        .mailarea{ grid-area: mailarea;}
+
+        .addarea{ grid-area: addrarea;}
+
+        .companynamearea{ grid-area: conaarea;}
+
+        .sloganarea{ grid-area: slogarea;}
+
+        .namearea, .phonearea, .mailarea, .addarea, .companynamearea, .sloganarea
+        {
+            border: 2px solid red
+        }
+
+        .card
+        {
+            display: grid;
+            position: absolute;
+            top: 80px;
+
+            grid-template-columns: repeat(8, 1fr);
+            grid-template-rows: repeat(7, 1fr);
+            grid-template-areas:
+            ". namearea namearea namearea . . . ."
+            ". . . . . . . ."
+            ". . . . . . . ."
+            ". . . . . . . ."
+            ". phonarea . . . . . ."
+            ". mailarea . . . conaarea . ."
+            ". addrarea . . . slogarea . ."
+            ;
+        }
+
+        label, button {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <h1>Visittkort info:</h1>
+
+        <label for="compName">Bedriftens Navn:</label>
+        <input type="text" placeholder="Google" class="compName">
+
+        <label for="compSlogan">Motto:</label>
+        <input type="text" placeholder="Built Tough" class="compSlogan">
+
+        <label for="name">Name:</label>
+        <input type="text" placeholder="John Doe" class="name">
+    
+        <label for="phoneNmbr">Phone Number:</label>
+        <input type="number" placeholder="999 99 999" class="phoneNmbr">
+
+        <label for="mail">Mail:</label>
+        <input type="text" class="mail" placeholder="john.doe@gmail.com">
+
+        <label for="adresse">Adresse:</label>
+        <input type="text" class="adresse" placeholder="Industrigata 5, 3400 Lier">
+
+        <label for="about">About:</label>
+        <textarea class="about" cols="30" rows="10" placeholder="About yourself"></textarea>
+
+
+        <button onclick="register()" class="regButton">Register</button>
+
+
+        <div class="carddiv">
+            <img src="busicard.png" alt="businesscard template", width="100%", height="100%">
+
+            <div class="card">
+                <div class="namearea">John Doe</div>
+                <div class="phonearea">+47</div>
+                <div class="mailarea">john.doe@gmail.com</div>
+                <div class="addarea">Industriveien 5, 3500 Lier</div>
+                <div class="companynamearea">Industri</div>
+                <div class="sloganarea">Skoda: Simply Clever</div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let compNameEl = document.querySelector(".compName");
+        let compSloganEl = document.querySelector(".compSlogan");
+        let nameEl = document.querySelector(".name");
+        let phoneNmbrEl = document.querySelector(".phoneNmbr");
+        let mailEl = document.querySelector(".mail");
+        let adresseEl = document.querySelector(".adresse");
+        let aboutEl = document.querySelector(".about");
+
+        let companyNameAreaEl = document.querySelector(".companynamearea")
+        let sloganEl = document.querySelector(".sloganarea");
+        let nameareaEl = document.querySelector(".namearea");
+        let phoneareaEl = document.querySelector(".phonearea");
+        let mailareaEl = document.querySelector(".mailarea");
+        let addareaEl = document.querySelector(".addarea");
+
+        function register()
+        {
+            nameareaEl.innerHTML = nameEl.value;
+            companyNameAreaEl.innerHTML = compNameEl.value;
+            sloganEl.innerHTML = compSloganEl.value;
+            phoneareaEl.innerHTML += phoneNmbrEl.value;
+            mailareaEl.innerHTML = mailEl.value;
+            addareaEl.innerHTML = adresseEl.value;
+        }
+    </script>
+</body>
+</html>
