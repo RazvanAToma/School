@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 1</title>
+</head>
+<body>
+    <div class="h1div">
+        <h1 class="overskrift">Overskrift</h1>
+        <h1 class="underskrift">Underskrift</h1>
+    </div>
+    
+    <div class="pdiv">
+
+    </div>
+
+
+    <script>
+        // Legge til event listener for overskriften
+        let overskriftEl = document.querySelector(".overskrift");
+        let underskriftEl = document.querySelector(".underskrift");
+        let pdivEl = document.querySelector(".pdiv");
+
+        overskriftEl.addEventListener("click", createNew);
+
+
+        // Funksjon for å legge til nytt element
+        function createNew()
+        {
+            // Fjerne event listener for overskrift
+            overskriftEl.removeEventListener("click", createNew);
+
+            // Lage P element
+            let nyPEl = document.createElement("p");
+            nyPEl.className = "nyP"
+
+            // Skrive text til P elementet
+            nyPEl.appendChild(document.createTextNode("Et aldri så lite avsnitt"));
+
+            // Legge til elementet
+            pdivEl.appendChild(nyPEl);
+
+
+            // Legge til event listener for underskriften
+            underskriftEl.addEventListener("click", change);
+        }
+
+
+        // For kontroll på antall clicks
+        let clickCounter = 0;
+
+
+        // Funksjon for å endre p elementet
+        function change()
+        {
+            let pEl = document.querySelector(".nyP");
+
+            if (clickCounter)
+            {
+                pEl.innerHTML = "Nå får du aldri klikke meg igjen!";
+                underskriftEl.removeEventListener("click", change);
+            }
+            else
+            {
+                pEl.innerHTML = "Takk for klikket";
+
+                clickCounter += 1;
+            }
+            
+
+
+        }
+    </script>
+</body>
+</html>

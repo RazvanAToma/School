@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 3</title>
+    
+    <style>
+        .tries
+        {
+            display: flex;
+        }
+        
+        .try1, .try2, .try3, .try4, .try5{
+            padding: 5px;
+            margin-right: 10px;
+            min-height: 10px;
+            min-height: 10px;
+        }
+        
+        .redbg
+        {
+            padding: 5px;
+            margin-right: 10px;
+            min-height: 10px;
+            min-height: 10px;
+            background-color: red;
+        }
+    </style>
+
+</head>
+<body>
+
+    <h2>Gjett Byen!</h2>
+
+    <input type="text" class="inputField" maxlength="1">
+    <button onclick="checkLetter()">Gjett</button>
+    
+    <div class="tries">
+        <p class="try1"></p>
+        <p class="try2"></p>
+        <p class="try3"></p>
+        <p class="try4"></p>
+        <p class="try5"></p>
+    </div>
+
+    <br>
+    
+    <h3>Gjettede:</h3>
+    <p class="gjettede"></p>
+    
+    <h3>Riktige:</h3>
+    <p class="riktige"></p>
+
+    <br>
+
+    <p>Det er 6 bokstaver i løsningsordet</p>
+    <p>Husk å bruke store bokstaver!</p>
+    
+
+
+    <script>
+
+        let pwd = ["B", "E", "R", "G", "E", "N"];
+        let gjettedeBokstaver = [];
+        let riktigeBokstaver = [];
+        let tries = 0;
+        
+        let gjettedeEl = document.querySelector(".gjettede")
+        let riktigeEl = document.querySelector(".riktige")
+        
+        let try1El = document.querySelector(".try1");
+        let try2El = document.querySelector(".try2");
+        let try3El = document.querySelector(".try3");
+        let try4El = document.querySelector(".try4");
+        let try5El = document.querySelector(".try5");
+        
+        let inputFieldEl = document.querySelector(".inputField");
+        inputFieldEl.addEventListener("keydown", checkEnter);
+        
+        
+        function checkEnter(e)
+        {
+            if (e.key == "Enter")
+            {
+                checkLetter()
+            }
+        }
+        
+        
+        function checkLetter()
+        {
+            let letterThatMatches = 0;
+
+            for (let letter of pwd)
+            {
+                if (inputFieldEl.value == letter)
+                {
+                    letterThatMatches += 1;
+
+                    let index = pwd.indexOf(letter);
+                    let lastIndex = pwd.lastIndexOf(letter);
+                    
+                    if (index == lastIndex)
+                    {
+                        riktigeBokstaver[index] = inputFieldEl.value; 
+
+                    }
+                    else
+                    {
+                        riktigeBokstaver[index] = inputFieldEl.value;
+                        riktigeBokstaver[lastIndex] = inputFieldEl.value;
+                    }
+                }
+            }
+
+            riktigeEl.innerHTML = riktigeBokstaver;
+
+            gjettedeBokstaver.push(inputFieldEl.value);
+
+            gjettedeEl.innerHTML = gjettedeBokstaver.sort();
+            gjettedeEl.innerHTML += `<br>Antall Gjettede Bokstaver: ${gjettedeBokstaver.length}`;
+
+
+            // Endrer antall forsøk
+            if (letterThatMatches == 0)
+            {
+                tries += 1;
+            
+                switch (tries)
+                {
+                    case 1:
+                        try1El.setAttribute("class", "redbg");
+                        break;
+
+                    case 2:
+                        try2El.setAttribute("class", "redbg");
+                        break;
+
+                    case 3:
+                        try3El.setAttribute("class", "redbg");
+                        break;
+
+                    case 4:
+                        try4El.setAttribute("class", "redbg");
+                        break;
+                        
+                    case 5:
+                        try5El.setAttribute("class", "redbg");
+                        document.write("Du Tapte");
+                        break;
+                }
+            }
+
+
+            // Sjekk om du vant
+            let correct = 0;
+
+            for (let i = 0; i < riktigeBokstaver.length; i += 1)
+            {
+                if (riktigeBokstaver[i] != pwd[i])
+                {
+                    break
+                }
+                else
+                {
+                    correct += 1;
+                }
+            }
+
+            if (correct == 6)
+            {
+                document.write("Du Vant!");
+            }
+
+
+            // Tømmer input felt
+            inputFieldEl.value = "";
+        }
+    </script>
+</body>
+</html>
