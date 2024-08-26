@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\bin\Debug\net8.0\Tallvariabler.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\bin\Debug\net8.0\Tallvariabler.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\bin\Debug\net8.0\Tallvariabler.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\bin\Debug\net8.0\Tallvariabler.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\bin\Debug\net8.0\Tallvariabler.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\Tallvariabler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\Tallvariabler.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\Tallvariabler.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\Tallvariabler.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\Tallvariabler.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\Tallvariabler.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\refint\Tallvariabler.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\Tallvariabler.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\Tallvariabler.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Tallvariabler\obj\Debug\net8.0\ref\Tallvariabler.dll
