@@ -1,0 +1,5 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Datatyper\obj\Debug\net8.0\Datatyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Datatyper\obj\Debug\net8.0\Datatyper.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Datatyper\obj\Debug\net8.0\Datatyper.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Datatyper\obj\Debug\net8.0\Datatyper.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Datatyper\obj\Debug\net8.0\Datatyper.sourcelink.json

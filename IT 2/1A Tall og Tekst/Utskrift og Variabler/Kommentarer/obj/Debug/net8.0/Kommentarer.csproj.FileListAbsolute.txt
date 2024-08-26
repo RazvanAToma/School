@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\bin\Debug\net8.0\Kommentarer.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\bin\Debug\net8.0\Kommentarer.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\bin\Debug\net8.0\Kommentarer.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\bin\Debug\net8.0\Kommentarer.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\bin\Debug\net8.0\Kommentarer.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\Kommentarer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\Kommentarer.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\Kommentarer.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\Kommentarer.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\Kommentarer.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\Kommentarer.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\refint\Kommentarer.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\Kommentarer.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\Kommentarer.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Utskrift og Variabler\Kommentarer\obj\Debug\net8.0\ref\Kommentarer.dll
