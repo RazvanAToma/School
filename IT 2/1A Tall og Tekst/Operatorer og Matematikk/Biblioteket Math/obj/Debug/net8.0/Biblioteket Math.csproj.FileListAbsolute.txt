@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\bin\Debug\net8.0\Biblioteket Math.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\bin\Debug\net8.0\Biblioteket Math.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\bin\Debug\net8.0\Biblioteket Math.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\bin\Debug\net8.0\Biblioteket Math.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\bin\Debug\net8.0\Biblioteket Math.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\Biblioteket Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\Biblioteket Math.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\Biblioteket Math.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\Biblioteket Math.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\Biblioteket Math.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\Biblioteket Math.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\refint\Biblioteket Math.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\Biblioteket Math.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\Biblioteket Math.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Math\obj\Debug\net8.0\ref\Biblioteket Math.dll

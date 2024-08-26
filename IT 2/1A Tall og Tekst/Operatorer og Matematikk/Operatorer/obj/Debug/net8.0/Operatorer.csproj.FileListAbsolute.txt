@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\bin\Debug\net8.0\Operatorer.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\bin\Debug\net8.0\Operatorer.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\bin\Debug\net8.0\Operatorer.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\bin\Debug\net8.0\Operatorer.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\bin\Debug\net8.0\Operatorer.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\Operatorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\Operatorer.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\Operatorer.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\Operatorer.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\Operatorer.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\Operatorer.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\refint\Operatorer.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\Operatorer.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\Operatorer.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Operatorer\obj\Debug\net8.0\ref\Operatorer.dll

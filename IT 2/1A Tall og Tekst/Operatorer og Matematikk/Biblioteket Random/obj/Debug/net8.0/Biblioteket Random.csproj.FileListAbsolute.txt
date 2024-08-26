@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\bin\Debug\net8.0\Biblioteket Random.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\bin\Debug\net8.0\Biblioteket Random.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\bin\Debug\net8.0\Biblioteket Random.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\bin\Debug\net8.0\Biblioteket Random.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\bin\Debug\net8.0\Biblioteket Random.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\Biblioteket Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\Biblioteket Random.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\Biblioteket Random.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\Biblioteket Random.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\Biblioteket Random.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\Biblioteket Random.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\refint\Biblioteket Random.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\Biblioteket Random.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\Biblioteket Random.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Operatorer og Matematikk\Biblioteket Random\obj\Debug\net8.0\ref\Biblioteket Random.dll

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\razva\\Documents\\GitHub\\School\\",
+  "WorkspaceRootPath": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\1A Tall og Tekst\\Operatorer og Matematikk\\Biblioteket Math\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\1A Tall og Tekst\\Operatorer og Matematikk\\Biblioteket Math\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IT 2\\1A Tall og Tekst\\Operatorer og Matematikk\\Biblioteket Math\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF61EFCD-6D07-4084-9405-F72716225605}|Biblioteket Math.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\1a tall og tekst\\operatorer og matematikk\\biblioteket math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF61EFCD-6D07-4084-9405-F72716225605}|Biblioteket Math.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,12 +25,12 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\1A Tall og Tekst\\Operatorer og Matematikk\\Biblioteket Math\\Program.cs",
-              "RelativeDocumentMoniker": "IT 2\\1A Tall og Tekst\\Operatorer og Matematikk\\Biblioteket Math\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\1A Tall og Tekst\\Operatorer og Matematikk\\Biblioteket Math\\Program.cs",
-              "RelativeToolTip": "IT 2\\1A Tall og Tekst\\Operatorer og Matematikk\\Biblioteket Math\\Program.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFkAAAAlAAAAAAAAAA==",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T08:30:40.228Z",
+              "WhenOpened": "2024-08-26T07:49:31.42Z",
               "EditorCaption": ""
             }
           ]
