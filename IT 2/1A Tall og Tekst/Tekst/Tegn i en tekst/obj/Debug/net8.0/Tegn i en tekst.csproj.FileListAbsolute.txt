@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\bin\Debug\net8.0\Tegn i en tekst.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\bin\Debug\net8.0\Tegn i en tekst.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\bin\Debug\net8.0\Tegn i en tekst.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\bin\Debug\net8.0\Tegn i en tekst.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\bin\Debug\net8.0\Tegn i en tekst.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\Tegn i en tekst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\Tegn i en tekst.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\Tegn i en tekst.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\Tegn i en tekst.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\Tegn i en tekst.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\Tegn i en tekst.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\refint\Tegn i en tekst.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\Tegn i en tekst.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\Tegn i en tekst.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Tekst\Tegn i en tekst\obj\Debug\net8.0\ref\Tegn i en tekst.dll
