@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\bin\Debug\net8.0\Oppgave 1.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\bin\Debug\net8.0\Oppgave 1.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\bin\Debug\net8.0\Oppgave 1.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\bin\Debug\net8.0\Oppgave 1.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\bin\Debug\net8.0\Oppgave 1.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\Oppgave 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\Oppgave 1.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\Oppgave 1.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\Oppgave 1.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\Oppgave 1.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\Oppgave 1.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\refint\Oppgave 1.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\Oppgave 1.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\Oppgave 1.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Blandede Oppgaver\Oppgave 1\obj\Debug\net8.0\ref\Oppgave 1.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tegn i en tekst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3450f3b5a7bb1694dd4ea16cbea6290caa60ed4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76c3ce2c2fe804741b1ecf0a688460acfd6c93ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tegn i en tekst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tegn i en tekst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

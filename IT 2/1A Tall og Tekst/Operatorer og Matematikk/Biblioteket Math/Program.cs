@@ -87,4 +87,10 @@ Console.ForegroundColor = ConsoleColor.Red;
 Console.WriteLine("Oppgave 3");
 Console.ResetColor();
 
-Console.WriteLine("Mangler trekant");
+double cosAngle = Math.Cos(60 * Math.PI/180);
+
+int hosKatet = 7;
+
+hypotenus = hosKatet / cosAngle;
+
+Console.WriteLine(Math.Round(hypotenus, 2));

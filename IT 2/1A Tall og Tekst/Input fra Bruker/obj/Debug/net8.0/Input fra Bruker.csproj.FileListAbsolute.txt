@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\bin\Debug\net8.0\Input fra Bruker.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\bin\Debug\net8.0\Input fra Bruker.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\bin\Debug\net8.0\Input fra Bruker.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\bin\Debug\net8.0\Input fra Bruker.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\bin\Debug\net8.0\Input fra Bruker.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\Input fra Bruker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\Input fra Bruker.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\Input fra Bruker.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\Input fra Bruker.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\Input fra Bruker.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\Input fra Bruker.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\refint\Input fra Bruker.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\Input fra Bruker.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\Input fra Bruker.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1A Tall og Tekst\Input fra Bruker\obj\Debug\net8.0\ref\Input fra Bruker.dll
