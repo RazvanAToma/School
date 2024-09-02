@@ -11,7 +11,6 @@ double trackLength = (mainStraight * 2) + (2 * Math.PI * turnRadius); // m
 Console.WriteLine($"Lengden på banen er {Math.Round(trackLength)} meter");
 
 
-
 double timePerLap = trackLength / avgSpeed;
 
-Console.WriteLine($"For 10 runder tar det syklisten {timePerLap * 10} sekunder");
+Console.WriteLine($"For 10 runder tar det syklisten {Math.Round(timePerLap * 10)} sekunder");

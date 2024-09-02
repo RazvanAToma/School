@@ -1,5 +1,5 @@
 ﻿
-int aarstall = 2025;
+int aarstall = 2024;
 
 // 1
 int a = aarstall % 19;

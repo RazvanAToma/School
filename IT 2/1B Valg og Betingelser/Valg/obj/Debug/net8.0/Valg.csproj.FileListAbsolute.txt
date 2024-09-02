@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\bin\Debug\net8.0\Valg.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\bin\Debug\net8.0\Valg.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\bin\Debug\net8.0\Valg.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\bin\Debug\net8.0\Valg.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\bin\Debug\net8.0\Valg.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\Valg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\Valg.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\Valg.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\Valg.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\Valg.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\Valg.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\refint\Valg.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\Valg.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\Valg.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Valg\obj\Debug\net8.0\ref\Valg.dll
