@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\bin\Debug\net8.0\Oppgave 3.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\bin\Debug\net8.0\Oppgave 3.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\bin\Debug\net8.0\Oppgave 3.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\bin\Debug\net8.0\Oppgave 3.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\bin\Debug\net8.0\Oppgave 3.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\Oppgave 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\Oppgave 3.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\Oppgave 3.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\Oppgave 3.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\Oppgave 3.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\Oppgave 3.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\refint\Oppgave 3.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\Oppgave 3.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\Oppgave 3.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 3\obj\Debug\net8.0\ref\Oppgave 3.dll
