@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\bin\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\bin\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\bin\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\bin\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\bin\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\refint\Gjennomsnitt og Nøstede Løkker.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\Gjennomsnitt og Nøstede Løkker.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Gjennomsnitt og Nøstede Løkker\obj\Debug\net8.0\ref\Gjennomsnitt og Nøstede Løkker.dll

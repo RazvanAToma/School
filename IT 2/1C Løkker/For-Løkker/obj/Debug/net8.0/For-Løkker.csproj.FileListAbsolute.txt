@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\bin\Debug\net8.0\For-Løkker.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\bin\Debug\net8.0\For-Løkker.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\bin\Debug\net8.0\For-Løkker.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\bin\Debug\net8.0\For-Løkker.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\bin\Debug\net8.0\For-Løkker.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\For-Løkker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\For-Løkker.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\For-Løkker.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\For-Løkker.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\For-Løkker.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\For-Løkker.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\refint\For-Løkker.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\For-Løkker.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\For-Løkker.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\For-Løkker\obj\Debug\net8.0\ref\For-Løkker.dll

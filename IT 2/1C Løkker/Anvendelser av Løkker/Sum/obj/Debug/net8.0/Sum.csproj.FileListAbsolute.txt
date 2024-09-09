@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\bin\Debug\net8.0\Sum.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\bin\Debug\net8.0\Sum.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\bin\Debug\net8.0\Sum.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\bin\Debug\net8.0\Sum.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\bin\Debug\net8.0\Sum.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\Sum.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\Sum.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\Sum.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\Sum.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\refint\Sum.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\Sum.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\Sum.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1C Løkker\Anvendelser av Løkker\Sum\obj\Debug\net8.0\ref\Sum.dll
