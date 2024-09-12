@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\bin\Debug\net8.0\Introduksjon.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\bin\Debug\net8.0\Introduksjon.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\bin\Debug\net8.0\Introduksjon.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\bin\Debug\net8.0\Introduksjon.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\bin\Debug\net8.0\Introduksjon.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\Introduksjon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\Introduksjon.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\Introduksjon.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\Introduksjon.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\Introduksjon.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\Introduksjon.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\refint\Introduksjon.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\Introduksjon.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\Introduksjon.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1D Arrays og Lister\Introduksjon\obj\Debug\net8.0\ref\Introduksjon.dll

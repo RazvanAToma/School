@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gjennomsnitt og Nøstede Løkker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb1e3fb32d04604f51849cd755f4eb2e8d517847")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+772243446d71ea19426618b111c6619139437755")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gjennomsnitt og Nøstede Løkker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gjennomsnitt og Nøstede Løkker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

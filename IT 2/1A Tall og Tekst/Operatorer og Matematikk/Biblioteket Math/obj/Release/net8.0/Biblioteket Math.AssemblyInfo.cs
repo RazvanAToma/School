@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Biblioteket Math")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61b7976768e866413e35a35d46da8dd13a30739a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+772243446d71ea19426618b111c6619139437755")]
 [assembly: System.Reflection.AssemblyProductAttribute("Biblioteket Math")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Biblioteket Math")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
