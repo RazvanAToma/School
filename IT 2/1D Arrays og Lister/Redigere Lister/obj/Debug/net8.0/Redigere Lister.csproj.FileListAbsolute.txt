@@ -1,0 +1,15 @@
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\bin\Debug\net8.0\Redigere Lister.exe
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\bin\Debug\net8.0\Redigere Lister.deps.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\bin\Debug\net8.0\Redigere Lister.runtimeconfig.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\bin\Debug\net8.0\Redigere Lister.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\bin\Debug\net8.0\Redigere Lister.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\Redigere Lister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\Redigere Lister.AssemblyInfoInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\Redigere Lister.AssemblyInfo.cs
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\Redigere Lister.csproj.CoreCompileInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\Redigere Lister.sourcelink.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\Redigere Lister.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\refint\Redigere Lister.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\Redigere Lister.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\Redigere Lister.genruntimeconfig.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Redigere Lister\obj\Debug\net8.0\ref\Redigere Lister.dll

@@ -1,0 +1,15 @@
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\bin\Debug\net8.0\Lister og Løkker.exe
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\bin\Debug\net8.0\Lister og Løkker.deps.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\bin\Debug\net8.0\Lister og Løkker.runtimeconfig.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\bin\Debug\net8.0\Lister og Løkker.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\bin\Debug\net8.0\Lister og Løkker.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\Lister og Løkker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\Lister og Løkker.AssemblyInfoInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\Lister og Løkker.AssemblyInfo.cs
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\Lister og Løkker.csproj.CoreCompileInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\Lister og Løkker.sourcelink.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\Lister og Løkker.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\refint\Lister og Løkker.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\Lister og Løkker.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\Lister og Løkker.genruntimeconfig.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1D Arrays og Lister\Lister og Løkker\Lister og Løkker\obj\Debug\net8.0\ref\Lister og Løkker.dll

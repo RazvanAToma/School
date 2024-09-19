@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\Redigere Lister.csproj": {}
+    "C:\\Users\\razvant_b\\OneDrive - Buskerud fylkeskommune\\Backup\\Dokumenter\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\Redigere Lister.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\Redigere Lister.csproj": {
+    "C:\\Users\\razvant_b\\OneDrive - Buskerud fylkeskommune\\Backup\\Dokumenter\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\Redigere Lister.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\Redigere Lister.csproj",
+        "projectUniqueName": "C:\\Users\\razvant_b\\OneDrive - Buskerud fylkeskommune\\Backup\\Dokumenter\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\Redigere Lister.csproj",
         "projectName": "Redigere Lister",
-        "projectPath": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\Redigere Lister.csproj",
-        "packagesPath": "C:\\Users\\razva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\obj\\",
+        "projectPath": "C:\\Users\\razvant_b\\OneDrive - Buskerud fylkeskommune\\Backup\\Dokumenter\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\Redigere Lister.csproj",
+        "packagesPath": "C:\\Users\\razvant_b\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razvant_b\\OneDrive - Buskerud fylkeskommune\\Backup\\Dokumenter\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Redigere Lister\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\razva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\razvant_b\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

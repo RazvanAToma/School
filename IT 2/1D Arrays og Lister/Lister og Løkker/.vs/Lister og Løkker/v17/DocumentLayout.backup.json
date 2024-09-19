@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razvant_b\\OneDrive - Buskerud fylkeskommune\\Backup\\Dokumenter\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Lister og L\u00F8kker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1CF836-711A-46A2-9D43-8B0844142F98}|Lister og L\u00F8kker\\Lister og L\u00F8kker.csproj|c:\\users\\razvant_b\\onedrive - buskerud fylkeskommune\\backup\\dokumenter\\github\\school\\it 2\\1d arrays og lister\\lister og l\u00F8kker\\lister og l\u00F8kker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1CF836-711A-46A2-9D43-8B0844142F98}|Lister og L\u00F8kker\\Lister og L\u00F8kker.csproj|solutionrelative:lister og l\u00F8kker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razvant_b\\OneDrive - Buskerud fylkeskommune\\Backup\\Dokumenter\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Lister og L\u00F8kker\\Lister og L\u00F8kker\\Program.cs",
+              "RelativeDocumentMoniker": "Lister og L\u00F8kker\\Program.cs",
+              "ToolTip": "C:\\Users\\razvant_b\\OneDrive - Buskerud fylkeskommune\\Backup\\Dokumenter\\GitHub\\School\\IT 2\\1D Arrays og Lister\\Lister og L\u00F8kker\\Lister og L\u00F8kker\\Program.cs",
+              "RelativeToolTip": "Lister og L\u00F8kker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:01:22.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
