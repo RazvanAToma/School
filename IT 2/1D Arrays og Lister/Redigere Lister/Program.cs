@@ -1,5 +1,7 @@
 ﻿
 // Redigere Lister 
+using System.Diagnostics;
+
 Console.ForegroundColor = ConsoleColor.Red;
 Console.WriteLine("Redigere Lister");
 Console.ResetColor();
@@ -138,10 +140,97 @@ Console.WriteLine("\n");
 
 
 
-// Oppgave 5
+// Oppgave 6
 Console.ForegroundColor = ConsoleColor.Red;
-Console.WriteLine("Oppgave 5");
+Console.WriteLine("Oppgave 6");
 Console.ResetColor();
 
-List<string> byer2 = new List<string>(["OSLOO", "Trondheim", "Bergen", "Stavaangir", "Kristiansand", "Drammen", "Tromsø"]);
+List<int> ints6 = new List<int>([0, 1, 2, 0, 0, 3, 4, 5, 0, 0, 6, 0, 7, 0, 8, 0, 0, 0, 9, 10]);
 
+while (ints6.Contains(0))
+{
+    ints6.Remove(0);
+}
+
+foreach (int num in ints6)
+{
+    Console.WriteLine(num);
+}
+
+
+
+// Space
+Console.WriteLine("\n");
+
+
+
+// Oppgave 7
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("Oppgave 7");
+Console.ResetColor();
+
+List<string> names = new List<string> { "Anne", "Per", "Ole", "Anne", "Lise", "Ole", "Anne", "Per", "Anne", "Tor", "Ole" };
+
+List<string> uniques = new List<string>();
+
+foreach (string name in names)
+{
+    if (!uniques.Contains(name))
+    {
+        uniques.Add(name);
+    }
+}
+
+names = uniques;
+
+foreach(string name in names)
+{
+    Console.WriteLine(name);
+}
+
+
+
+// Space
+Console.WriteLine("\n");
+
+
+
+// Oppgave 8
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("Oppgave 8");
+Console.ResetColor();
+
+Random rnd = new Random();
+
+List<int> random = new List<int>();
+
+for (int i = 0; i < 1000; i += 1)
+{
+    random.Add(rnd.Next(1, 100));
+}
+
+random.Sort();
+
+Console.WriteLine(random[0]);
+Console.WriteLine(random.Last());
+
+
+
+// Space
+Console.WriteLine("\n");
+
+
+
+// Oppgave 9
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("Oppgave 9");
+Console.ResetColor();
+
+random.Insert(random.LastIndexOf(16) + 1, 17);
+random.Insert(random.LastIndexOf(41) + 1, 42);
+random.Insert(random.LastIndexOf(80) + 1, 81);
+
+foreach(int num in random)
+{
+    Console.WriteLine(num);
+}

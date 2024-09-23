@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lister og Løkker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bc15e4e997cfff86d83b628a769190135134ec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab70dc94f8db9f7568656c65be2dea36729018a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lister og Løkker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lister og Løkker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
