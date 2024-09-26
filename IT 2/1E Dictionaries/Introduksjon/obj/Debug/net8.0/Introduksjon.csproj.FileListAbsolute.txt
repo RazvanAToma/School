@@ -1,0 +1,15 @@
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\bin\Debug\net8.0\Introduksjon.exe
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\bin\Debug\net8.0\Introduksjon.deps.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\bin\Debug\net8.0\Introduksjon.runtimeconfig.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\bin\Debug\net8.0\Introduksjon.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\bin\Debug\net8.0\Introduksjon.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\Introduksjon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\Introduksjon.AssemblyInfoInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\Introduksjon.AssemblyInfo.cs
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\Introduksjon.csproj.CoreCompileInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\Introduksjon.sourcelink.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\Introduksjon.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\refint\Introduksjon.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\Introduksjon.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\Introduksjon.genruntimeconfig.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Introduksjon\obj\Debug\net8.0\ref\Introduksjon.dll

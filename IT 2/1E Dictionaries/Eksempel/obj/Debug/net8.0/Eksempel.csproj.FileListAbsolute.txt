@@ -1,0 +1,15 @@
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\bin\Debug\net8.0\Eksempel.exe
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\bin\Debug\net8.0\Eksempel.deps.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\bin\Debug\net8.0\Eksempel.runtimeconfig.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\bin\Debug\net8.0\Eksempel.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\bin\Debug\net8.0\Eksempel.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\Eksempel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\Eksempel.AssemblyInfoInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\Eksempel.AssemblyInfo.cs
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\Eksempel.csproj.CoreCompileInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\Eksempel.sourcelink.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\Eksempel.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\refint\Eksempel.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\Eksempel.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\Eksempel.genruntimeconfig.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Eksempel\obj\Debug\net8.0\ref\Eksempel.dll

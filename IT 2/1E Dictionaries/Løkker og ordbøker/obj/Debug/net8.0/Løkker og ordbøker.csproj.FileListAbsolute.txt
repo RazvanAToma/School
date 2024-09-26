@@ -1,0 +1,15 @@
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\bin\Debug\net8.0\Løkker og ordbøker.exe
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\bin\Debug\net8.0\Løkker og ordbøker.deps.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\bin\Debug\net8.0\Løkker og ordbøker.runtimeconfig.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\bin\Debug\net8.0\Løkker og ordbøker.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\bin\Debug\net8.0\Løkker og ordbøker.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\Løkker og ordbøker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\Løkker og ordbøker.AssemblyInfoInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\Løkker og ordbøker.AssemblyInfo.cs
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\Løkker og ordbøker.csproj.CoreCompileInputs.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\Løkker og ordbøker.sourcelink.json
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\Løkker og ordbøker.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\refint\Løkker og ordbøker.dll
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\Løkker og ordbøker.pdb
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\Løkker og ordbøker.genruntimeconfig.cache
+C:\Users\razvant_b\OneDrive - Buskerud fylkeskommune\Backup\Dokumenter\GitHub\School\IT 2\1E Dictionaries\Løkker og ordbøker\obj\Debug\net8.0\ref\Løkker og ordbøker.dll
