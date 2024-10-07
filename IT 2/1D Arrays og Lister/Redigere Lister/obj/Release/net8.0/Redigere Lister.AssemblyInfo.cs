@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Redigere Lister")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bc15e4e997cfff86d83b628a769190135134ec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38390ccc2cfb8dcccd0789d848535529f24d205e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Redigere Lister")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Redigere Lister")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
