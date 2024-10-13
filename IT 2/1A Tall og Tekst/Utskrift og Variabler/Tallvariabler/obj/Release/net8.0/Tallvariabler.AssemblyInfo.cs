@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tallvariabler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bc15e4e997cfff86d83b628a769190135134ec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1be68a00b16eeff971747f819c4dd246b766b7ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tallvariabler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tallvariabler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

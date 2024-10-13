@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\bin\Debug\net8.0\Returverdier.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\bin\Debug\net8.0\Returverdier.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\bin\Debug\net8.0\Returverdier.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\bin\Debug\net8.0\Returverdier.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\bin\Debug\net8.0\Returverdier.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\Returverdier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\Returverdier.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\Returverdier.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\Returverdier.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\Returverdier.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\Returverdier.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\refint\Returverdier.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\Returverdier.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\Returverdier.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Returverdier\obj\Debug\net8.0\ref\Returverdier.dll

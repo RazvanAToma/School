@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\bin\Debug\net8.0\Funksjoner med Parametre.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\bin\Debug\net8.0\Funksjoner med Parametre.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\bin\Debug\net8.0\Funksjoner med Parametre.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\bin\Debug\net8.0\Funksjoner med Parametre.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\bin\Debug\net8.0\Funksjoner med Parametre.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\Funksjoner med Parametre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\Funksjoner med Parametre.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\Funksjoner med Parametre.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\Funksjoner med Parametre.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\Funksjoner med Parametre.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\Funksjoner med Parametre.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\refint\Funksjoner med Parametre.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\Funksjoner med Parametre.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\Funksjoner med Parametre.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\1F Funksjoner\Funksjoner med Parametre\obj\Debug\net8.0\ref\Funksjoner med Parametre.dll
