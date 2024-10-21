@@ -1,53 +1,107 @@
 ﻿
+// TIC-TAC-TOE
 
 // 2D-Array
+char[,] values = { { '-', '-', '-' }, { '-', '-', '-' }, { '-', '-', '-' } };
 
-using System.Data;
-using System.Runtime.Serialization;
-
-string[,] values = { { "x", "x", "x" }, { "a", "a", "a" }, { "n", "n", "n" } };
-
-Console.WriteLine("\tKol 0\t Kol 1\t Kol 2");
-Console.WriteLine($"Rad 0\t{values[0, 0]}\t {values[0, 1]}\t {values[0, 2]}");
-Console.WriteLine($"Rad 1\t{values[1, 0]}\t {values[1, 1]}\t {values[1, 2]}");
-Console.WriteLine($"Rad 2\t{values[2, 0]}\t {values[2, 1]}\t {values[2, 2]}");
-
-void checkRows()
+// Output game
+void ShowGame()
 {
-    int row = 0;
+    Console.WriteLine("\tKol 0\t Kol 1\t Kol 2");
+    Console.WriteLine($"Rad 0\t{values[0, 0]}\t {values[0, 1]}\t {values[0, 2]}");
+    Console.WriteLine($"Rad 1\t{values[1, 0]}\t {values[1, 1]}\t {values[1, 2]}");
+    Console.WriteLine($"Rad 2\t{values[2, 0]}\t {values[2, 1]}\t {values[2, 2]}");
+}
 
-    while (row != 3)
+ShowGame();
+
+// Check out of moves
+bool checkOutOfMoves()
+{
+    int x_counter = 0;
+    int o_counter = 0;
+
+    foreach(char value in values)
     {
-        if (values[row, 0] == values[row, 0 + 1] && values[row, 0] == values[row, 0 + 2])
+        if (value == 'x')
         {
-            Console.WriteLine("win");
-            break;
+            x_counter += 1;
         }
-        else
+        else if (value == 'o')
         {
-            row += 1;
+            o_counter += 1;
         }
+    }
+
+    if (o_counter == 3 && x_counter == 3)
+    {   
+        return true;
+    }
+    else
+    {
+        return false;
     }
 }
 
 
-void checkCols()
+// Place x or o
+void Place(int row, int col, char player)
 {
-    int col = 0;
-
-    while (col != 3)
+    if (!checkOutOfMoves())
     {
-        if (values[0, col] == values[0 + 1, col] && values[0, col] == values[0 + 2, col])
+        if (values[row, col] == '-')
         {
-            Console.WriteLine("win");
-            break;
+            values[row, col] = player;
         }
         else
         {
-            col += 1;
+            Console.WriteLine("Spot already taken...");
         }
+    }
+    else
+    {
+        Console.WriteLine("Players out of moves");
+        GameOver();
     }
 }
 
 
-checkRows();
+void StartGame()
+{
+    int row;
+    int col;
+
+    while (true)
+    {
+        // x
+        Console.WriteLine("Placing x");
+
+        Console.Write("Rad [0 - 2]: ");
+        row = int.Parse(Console.ReadLine());
+
+        Console.Write("Kol [0 - 2]: ");
+        col = int.Parse(Console.ReadLine());
+
+        Place(row, col, 'x');
+        ShowGame();
+
+        // o
+        Console.WriteLine("Placing o");
+
+        Console.Write("Rad [0 - 2]: ");
+        row = int.Parse(Console.ReadLine());
+
+        Console.Write("Kol [0 - 2]: ");
+        col = int.Parse(Console.ReadLine());
+
+        Place(row, col, 'o');
+        ShowGame();
+    }
+}
+
+void GameOver()
+{
+    Console.WriteLine("Game Over");
+}
+
+StartGame();
