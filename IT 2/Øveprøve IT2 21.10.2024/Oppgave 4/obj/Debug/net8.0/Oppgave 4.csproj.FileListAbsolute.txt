@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\Oppgave 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\Oppgave 4.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\Oppgave 4.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\Oppgave 4.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\Oppgave 4.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\bin\Debug\net8.0\Oppgave 4.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\bin\Debug\net8.0\Oppgave 4.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\bin\Debug\net8.0\Oppgave 4.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\bin\Debug\net8.0\Oppgave 4.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\bin\Debug\net8.0\Oppgave 4.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\Oppgave 4.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\refint\Oppgave 4.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\Oppgave 4.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\Oppgave 4.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Øveprøve IT2 21.10.2024\Oppgave 4\obj\Debug\net8.0\ref\Oppgave 4.dll
