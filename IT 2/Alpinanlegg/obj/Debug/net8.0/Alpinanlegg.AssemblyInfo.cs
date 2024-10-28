@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alpinanlegg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e5f9df22cb4af58b8ab1e5e1470e5e47f0168d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d58a5b6163d4468e7099d50a4f018ad9c0b11c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alpinanlegg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alpinanlegg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

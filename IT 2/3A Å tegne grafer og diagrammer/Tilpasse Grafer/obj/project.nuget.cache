@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Ds4oHJFsaY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3A Å tegne grafer og diagrammer\\Tilpasse Grafer\\Tilpasse Grafer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\razva\\.nuget\\packages\\scottplot\\5.0.41\\scottplot.5.0.41.nupkg.sha512",
+    "C:\\Users\\razva\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\razva\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\2.88.8\\skiasharp.nativeassets.linux.nodependencies.2.88.8.nupkg.sha512",
+    "C:\\Users\\razva\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\razva\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}

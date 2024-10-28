@@ -1,0 +1,27 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\Tilpasse Grafer.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\Tilpasse Grafer.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\Tilpasse Grafer.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\Tilpasse Grafer.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\Tilpasse Grafer.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\ScottPlot.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse Grafer.csproj.AssemblyReference.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse Grafer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse Grafer.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse Grafer.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse Grafer.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse Grafer.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse.2B797C2E.Up2Date
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse Grafer.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\refint\Tilpasse Grafer.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse Grafer.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\Tilpasse Grafer.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Tilpasse Grafer\obj\Debug\net8.0\ref\Tilpasse Grafer.dll
