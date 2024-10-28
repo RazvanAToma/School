@@ -43,6 +43,7 @@ plt.xlabel("$t$ / s")
 plt.ylabel("$v$ / m/s")
 
 plt.figure(3)
+a[-1] = a[-2]
 plt.plot(t,a)   # Tid, Akselerasjon
 plt.grid()
 plt.title("Akselerasjon")
