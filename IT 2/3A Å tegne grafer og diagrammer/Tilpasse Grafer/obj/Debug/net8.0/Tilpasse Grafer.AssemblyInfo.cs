@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tilpasse Grafer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d58a5b6163d4468e7099d50a4f018ad9c0b11c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+701c0494d922d007217367ccfa89b94ae399c34b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tilpasse Grafer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tilpasse Grafer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
