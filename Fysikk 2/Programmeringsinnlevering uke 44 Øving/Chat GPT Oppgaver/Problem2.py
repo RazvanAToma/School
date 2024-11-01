@@ -22,7 +22,7 @@ s = np.zeros(n)
 # Euler metoden
 for i in range (0, n-1):
     F_x = F_gravitasjon - F_friksjon
-    a[i] = F_x / m            # Newtons 2. Lov, F_sum = m*a. Omformulerer og løser legger inn verdien for a i arrayen.
+    a[i] = F_x / m              # Newtons 2. Lov, F_x = m*a. Omformulerer og løser legger inn verdien for a i arrayen.
     v[i+1] = v[i] + a[i] * dt   # Tar fartsverdien fra arrayen, legger til arealet under akselerasjonsgrafen, og setter neste verdi i arrayen til svaret
     s[i+1] = s[i] + v[i] * dt   # Tar posisjonsverdien fra arrayen, plusser på arealet under fartsgrafen, og setter nestes verdi i arrayen til svaret
 
