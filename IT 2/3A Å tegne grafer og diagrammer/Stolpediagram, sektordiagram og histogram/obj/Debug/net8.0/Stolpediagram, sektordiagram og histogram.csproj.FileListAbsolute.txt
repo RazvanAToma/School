@@ -1,0 +1,27 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\Stolpediagram, sektordiagram og histogram.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\Stolpediagram, sektordiagram og histogram.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\Stolpediagram, sektordiagram og histogram.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\Stolpediagram, sektordiagram og histogram.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\Stolpediagram, sektordiagram og histogram.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\ScottPlot.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpediagram, sektordiagram og histogram.csproj.AssemblyReference.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpediagram, sektordiagram og histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpediagram, sektordiagram og histogram.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpediagram, sektordiagram og histogram.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpediagram, sektordiagram og histogram.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpediagram, sektordiagram og histogram.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpedi.0A7C6158.Up2Date
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpediagram, sektordiagram og histogram.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\refint\Stolpediagram, sektordiagram og histogram.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpediagram, sektordiagram og histogram.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\Stolpediagram, sektordiagram og histogram.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3A Å tegne grafer og diagrammer\Stolpediagram, sektordiagram og histogram\obj\Debug\net8.0\ref\Stolpediagram, sektordiagram og histogram.dll
