@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gruppert Stolpediagram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a4e5e180730237f9d3ef25ea3b9e31f0d78ae1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c3119f4b54c1eab22a1c6207762e9d0ecbef2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gruppert Stolpediagram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gruppert Stolpediagram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

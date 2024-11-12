@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\bin\Debug\net8.0\ChatGPT Øveprøve IT2.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\bin\Debug\net8.0\ChatGPT Øveprøve IT2.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\bin\Debug\net8.0\ChatGPT Øveprøve IT2.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\bin\Debug\net8.0\ChatGPT Øveprøve IT2.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\bin\Debug\net8.0\ChatGPT Øveprøve IT2.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\ChatGPT Øveprøve IT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\ChatGPT Øveprøve IT2.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\ChatGPT Øveprøve IT2.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\ChatGPT Øveprøve IT2.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\ChatGPT Øveprøve IT2.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\ChatGPT Øveprøve IT2.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\refint\ChatGPT Øveprøve IT2.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\ChatGPT Øveprøve IT2.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\ChatGPT Øveprøve IT2.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\ChatGPT Øveprøve IT2\obj\Debug\net8.0\ref\ChatGPT Øveprøve IT2.dll

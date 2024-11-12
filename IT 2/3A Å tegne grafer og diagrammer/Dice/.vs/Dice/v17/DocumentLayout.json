@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3A \u00C5 tegne grafer og diagrammer\\Dice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{634D5967-BEAC-46CA-B1D4-F8A910C23A7F}|Dice.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\3a \u00E5 tegne grafer og diagrammer\\dice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634D5967-BEAC-46CA-B1D4-F8A910C23A7F}|Dice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3A \u00C5 tegne grafer og diagrammer\\Dice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3A \u00C5 tegne grafer og diagrammer\\Dice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:17:49.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
