@@ -1,0 +1,37 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\ScottPlot.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.csproj.AssemblyReference.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Pr_ve.E91F29BE.Up2Date
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\refint\IT Prøve 18.11.2024 Razvan Toma 3STB.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\IT Prøve 18.11.2024 Razvan Toma 3STB.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\IT Prøve 18.11.2024 Razvan Toma 3STB\obj\Debug\net8.0\ref\IT Prøve 18.11.2024 Razvan Toma 3STB.dll

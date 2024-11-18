@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sektordiagram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c3119f4b54c1eab22a1c6207762e9d0ecbef2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81d998aaa178c0494ace80d362b8608c78cab00")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sektordiagram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sektordiagram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

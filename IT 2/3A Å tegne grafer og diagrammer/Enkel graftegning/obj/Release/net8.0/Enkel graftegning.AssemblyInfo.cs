@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enkel graftegning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d58a5b6163d4468e7099d50a4f018ad9c0b11c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81d998aaa178c0494ace80d362b8608c78cab00")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enkel graftegning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enkel graftegning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
