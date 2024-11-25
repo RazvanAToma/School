@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\bin\Debug\net8.0\Grunnleggende filbehandling.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\bin\Debug\net8.0\Grunnleggende filbehandling.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\bin\Debug\net8.0\Grunnleggende filbehandling.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\bin\Debug\net8.0\Grunnleggende filbehandling.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\bin\Debug\net8.0\Grunnleggende filbehandling.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\Grunnleggende filbehandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\Grunnleggende filbehandling.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\Grunnleggende filbehandling.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\Grunnleggende filbehandling.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\Grunnleggende filbehandling.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\Grunnleggende filbehandling.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\refint\Grunnleggende filbehandling.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\Grunnleggende filbehandling.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\Grunnleggende filbehandling.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Grunnleggende filbehandling\obj\Debug\net8.0\ref\Grunnleggende filbehandling.dll
