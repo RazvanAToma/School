@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Variabler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2419cdb630cd26f277c67e92ff0e1207f5930cc8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+326ac706a37932e89a8484e10ff590da853010e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Variabler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Variabler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
