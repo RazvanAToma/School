@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Random Projects\\Russian Alphabet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD33A6D9-79E2-43BD-9857-86CBC021BDB5}|Russian Alphabet.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\random projects\\russian alphabet\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD33A6D9-79E2-43BD-9857-86CBC021BDB5}|Russian Alphabet.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD33A6D9-79E2-43BD-9857-86CBC021BDB5}|Russian Alphabet.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\random projects\\russian alphabet\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD33A6D9-79E2-43BD-9857-86CBC021BDB5}|Russian Alphabet.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD33A6D9-79E2-43BD-9857-86CBC021BDB5}|Russian Alphabet.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\random projects\\russian alphabet\\uppercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD33A6D9-79E2-43BD-9857-86CBC021BDB5}|Russian Alphabet.csproj|solutionrelative:uppercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD33A6D9-79E2-43BD-9857-86CBC021BDB5}|Russian Alphabet.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\random projects\\russian alphabet\\lowercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD33A6D9-79E2-43BD-9857-86CBC021BDB5}|Russian Alphabet.csproj|solutionrelative:lowercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Random Projects\\Russian Alphabet\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Random Projects\\Russian Alphabet\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:10:19.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Random Projects\\Russian Alphabet\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Random Projects\\Russian Alphabet\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:43:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Uppercase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Random Projects\\Russian Alphabet\\Uppercase.cs",
+              "RelativeDocumentMoniker": "Uppercase.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Random Projects\\Russian Alphabet\\Uppercase.cs [Design]",
+              "RelativeToolTip": "Uppercase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:02:27.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lowercase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Random Projects\\Russian Alphabet\\Lowercase.cs",
+              "RelativeDocumentMoniker": "Lowercase.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Random Projects\\Russian Alphabet\\Lowercase.cs [Design]",
+              "RelativeToolTip": "Lowercase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:05:19.421Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
