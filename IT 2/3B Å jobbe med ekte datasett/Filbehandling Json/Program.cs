@@ -1,8 +1,10 @@
 ﻿
 using System.Text.Json;
 
-string s = File.ReadAllText("employees.json");
+string file = File.ReadAllText("C://Users//razva//Documents//GitHub//School//IT 2//3B Å jobbe med ekte datasett//Filbehandling Json//files/employees.json");
 
-List<Employee> employees = JsonSerializer.Deserialize<List<Employee>>(s);
+List<Employee> employees = JsonSerializer.Deserialize<List<Employee>>(file);
 
-Console.WriteLine(employees[0].firstName);
+Employee.SalarySort(employees);
+
+Employee.ShowAll(employees);

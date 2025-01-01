@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kræsjkurs i Klasser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6242cac3dac777e39412f4ef123717714c021ae6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2419cdb630cd26f277c67e92ff0e1207f5930cc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kræsjkurs i Klasser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kræsjkurs i Klasser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

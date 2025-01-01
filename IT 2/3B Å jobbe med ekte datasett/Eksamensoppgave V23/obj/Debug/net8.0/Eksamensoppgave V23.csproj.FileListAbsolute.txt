@@ -1,0 +1,18 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\bin\Debug\net8.0\Eksamensoppgave V23.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\bin\Debug\net8.0\Eksamensoppgave V23.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\bin\Debug\net8.0\Eksamensoppgave V23.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\bin\Debug\net8.0\Eksamensoppgave V23.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\bin\Debug\net8.0\Eksamensoppgave V23.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamensoppgave V23.csproj.AssemblyReference.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamensoppgave V23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamensoppgave V23.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamensoppgave V23.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamensoppgave V23.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamensoppgave V23.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamens.A475E5BF.Up2Date
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamensoppgave V23.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\refint\Eksamensoppgave V23.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamensoppgave V23.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\Eksamensoppgave V23.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Eksamensoppgave V23\obj\Debug\net8.0\ref\Eksamensoppgave V23.dll

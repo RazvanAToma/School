@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D499AC7B-EF82-4881-AA76-14F4FD402A81}|Filbehandling Json.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\3b \u00E5 jobbe med ekte datasett\\filbehandling json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D499AC7B-EF82-4881-AA76-14F4FD402A81}|Filbehandling Json.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D499AC7B-EF82-4881-AA76-14F4FD402A81}|Filbehandling Json.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\3b \u00E5 jobbe med ekte datasett\\filbehandling json\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D499AC7B-EF82-4881-AA76-14F4FD402A81}|Filbehandling Json.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D499AC7B-EF82-4881-AA76-14F4FD402A81}|Filbehandling Json.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\3b \u00E5 jobbe med ekte datasett\\filbehandling json\\files\\employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D499AC7B-EF82-4881-AA76-14F4FD402A81}|Filbehandling Json.csproj|solutionrelative:files\\employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "employees.json",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Filbehandling Json\\files\\employees.json",
+              "RelativeDocumentMoniker": "files\\employees.json",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Filbehandling Json\\files\\employees.json",
+              "RelativeToolTip": "files\\employees.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T07:56:50.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Filbehandling Json\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Filbehandling Json\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwEkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:45:00.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Filbehandling Json\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T09:23:15.282Z",
               "EditorCaption": ""

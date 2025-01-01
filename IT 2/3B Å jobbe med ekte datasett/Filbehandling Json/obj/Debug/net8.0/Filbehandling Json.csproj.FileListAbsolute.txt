@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\bin\Debug\net8.0\Filbehandling Json.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\bin\Debug\net8.0\Filbehandling Json.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\bin\Debug\net8.0\Filbehandling Json.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\bin\Debug\net8.0\Filbehandling Json.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\bin\Debug\net8.0\Filbehandling Json.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\Filbehandling Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\Filbehandling Json.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\Filbehandling Json.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\Filbehandling Json.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\Filbehandling Json.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\Filbehandling Json.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\refint\Filbehandling Json.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\Filbehandling Json.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\Filbehandling Json.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\Filbehandling Json\obj\Debug\net8.0\ref\Filbehandling Json.dll

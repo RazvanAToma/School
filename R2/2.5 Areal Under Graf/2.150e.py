@@ -17,4 +17,4 @@ for i in range(1, n + 1):
 
     x += dx
 
-print(round(areal, 2))
+print(areal)

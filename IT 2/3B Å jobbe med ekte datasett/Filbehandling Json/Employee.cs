@@ -26,4 +26,54 @@
         this.years_employed = years_employed;
         this.salary = salary;
     }
+
+    public static void YearSort(List<Employee> list)
+    {
+        list.Sort(delegate (Employee a, Employee b)
+        {
+            return a.years_employed.CompareTo(b.years_employed);
+        });
+
+        list.Reverse();
+    }
+
+    public static void SalarySort(List<Employee> list)
+    {
+        list.Sort(delegate (Employee a, Employee b)
+        {
+            return a.salary.CompareTo(b.salary);
+        });
+
+        list.Reverse();
+    }
+
+    public static void IdSort(List<Employee> list)
+    {
+        list.Sort(delegate (Employee a, Employee b)
+        {
+            return a.userId.CompareTo(b.userId);
+        });
+    }
+
+    public static void CodeSort(List<Employee> list)
+    {
+        list.Sort(delegate (Employee a, Employee b)
+        {
+            return a.employeeCode.CompareTo(b.employeeCode);
+        });
+    }
+
+
+    public static void ShowAll(List<Employee> list)
+    {
+        foreach (Employee employee in list)
+        {
+            Console.WriteLine($"{employee.firstName}, {employee.lastName}");
+            Console.WriteLine($"User ID:\t{employee.userId}");
+            Console.WriteLine($"Years Employed:\t{employee.years_employed}");
+            Console.WriteLine($"Salary:\t\t{employee.salary}");
+
+            Console.WriteLine("\n");
+        }
+    }
 }

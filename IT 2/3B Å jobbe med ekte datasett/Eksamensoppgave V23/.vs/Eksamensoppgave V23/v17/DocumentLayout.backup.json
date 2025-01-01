@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Eksamensoppgave V23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914548F5-67A9-4820-A57C-42792F00B008}|Eksamensoppgave V23.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\3b \u00E5 jobbe med ekte datasett\\eksamensoppgave v23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914548F5-67A9-4820-A57C-42792F00B008}|Eksamensoppgave V23.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914548F5-67A9-4820-A57C-42792F00B008}|Eksamensoppgave V23.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\3b \u00E5 jobbe med ekte datasett\\eksamensoppgave v23\\googleplaystoreapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914548F5-67A9-4820-A57C-42792F00B008}|Eksamensoppgave V23.csproj|solutionrelative:googleplaystoreapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GooglePlaystoreApp.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Eksamensoppgave V23\\GooglePlaystoreApp.cs",
+              "RelativeDocumentMoniker": "GooglePlaystoreApp.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Eksamensoppgave V23\\GooglePlaystoreApp.cs",
+              "RelativeToolTip": "GooglePlaystoreApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:24:54.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Eksamensoppgave V23\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\3B \u00C5 jobbe med ekte datasett\\Eksamensoppgave V23\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:02:46.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

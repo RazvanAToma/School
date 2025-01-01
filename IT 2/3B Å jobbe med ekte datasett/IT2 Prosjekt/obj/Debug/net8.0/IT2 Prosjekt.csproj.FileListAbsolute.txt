@@ -1,0 +1,18 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\IT2 Prosjekt.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\IT2 Prosjekt.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\IT2 Prosjekt.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\IT2 Prosjekt.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\IT2 Prosjekt.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.csproj.AssemblyReference.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Pros.0F5AEC73.Up2Date
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\refint\IT2 Prosjekt.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\ref\IT2 Prosjekt.dll
