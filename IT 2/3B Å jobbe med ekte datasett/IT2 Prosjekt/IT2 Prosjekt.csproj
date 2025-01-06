@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="CsvHelper" Version="33.0.1" />
+    <PackageReference Include="ScottPlot" Version="5.0.48" />
   </ItemGroup>
 
 </Project>

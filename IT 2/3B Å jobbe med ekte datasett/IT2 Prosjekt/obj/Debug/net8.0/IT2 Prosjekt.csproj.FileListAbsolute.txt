@@ -16,3 +16,23 @@ C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Pr
 C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.pdb
 C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\IT2 Prosjekt.genruntimeconfig.cache
 C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\obj\Debug\net8.0\ref\IT2 Prosjekt.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\ScottPlot.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\IT2 Prosjekt\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
