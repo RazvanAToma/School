@@ -1,6 +1,7 @@
 ﻿using ScottPlot;
 using CsvHelper;
 using System.Globalization;
+using System.Diagnostics.Metrics;
 
 
 var reader = new StreamReader("Datasett_fodselstall_komma.csv");
@@ -8,34 +9,6 @@ var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
 
 var statistikk = csv.GetRecords<Fodselstall>().ToList();
 
-/*
-
-Console.WriteLine("=======================================");
-Console.WriteLine("||------|-------|---------|----------||");
-Console.WriteLine("|| Year | Total | MoveIns | MoveOuts ||");
-Console.WriteLine("||------|-------|---------|----------||");
-
-
-foreach (Fodselstall ting in statistikk)
-{
-    string year = ting.Year.ToString();
-    string born = ting.Born.ToString();
-    string moveIns = ting.MoveIns.ToString();
-    string moveOuts = ting.MoveOuts.ToString();
-
-    if (born.Length < 5) { while (born.Length != 5) { born += " "; } }
-
-    if (moveIns.Length < 7) { while (moveIns.Length != 7) { moveIns += " "; } }
-
-    if (moveOuts.Length < 8) { while (moveOuts.Length != 8) { moveOuts += " "; } }
-
-    Console.WriteLine($"|| {year} | {born} | {moveIns} | {moveOuts} ||");
-    Console.WriteLine("||------|-------|---------|----------||");
-}
-
-Console.WriteLine("=======================================");
-
-*/
 
 // Dictionaries for årstall og respektive verdier
 Dictionary<int, int> yearAndBorn = new Dictionary<int, int>();
@@ -48,15 +21,6 @@ foreach (Fodselstall info in statistikk)
     yearAndMoveIns.Add(info.Year, info.MoveIns);
     yearAndMoveOuts.Add(info.Year, info.MoveOuts);
 }
-
-/*
-Høy vanskelighetsgrad (karakter 5-6)
-	• Lag et program som lar brukeren velge hvilken graf som skal tegnes, og i hvilken periode:
-		○ Brukeren skal selv kunne velge mellom fødselstall, innflytting, utflytting eller nettoinnvandring
-		○ Brukeren skal selv velge hvilket år grafen skal starte og slutte
-		○ Grafen brukeren ber om skal tegnes, og gis en passende tittel (for eksempel "Innflytting fra 1980 til 1990" dersom det er det brukeren har valgt.)
-        ○ Programmet bør sjekke at input fra brukeren er gyldig, slik at det ikke kræsjer når det prøver å tegne grafen
-*/
 
 void Oppgave1()
 {
@@ -95,6 +59,7 @@ void Oppgave1()
     // Intervall
     int intervallStart;
     int intervallSlutt;
+
     while (true)
     {
         Console.WriteLine("Du kan velge to årstall mellom 1945 og 2024");
@@ -130,13 +95,12 @@ void Oppgave1()
     }
 
     // Oppsummering
-    Console.Write($"\nDu har valgt {valgtKategori} ");
-    Console.WriteLine($"med intervallet {intervallStart} til {intervallSlutt}, som er {intervallSlutt - intervallStart} år.");
-
+    Console.WriteLine($"\nDu har valgt {valgtKategori} med intervallet {intervallStart} til {intervallSlutt}, som er {intervallSlutt - intervallStart} år.");
 
     // Prep for graftegning
     List<string> aarstall = new List<string>();
     List<double> antall = new List<double>();
+
     string plotTitle = "";
 
     int counter = intervallStart;
@@ -166,10 +130,8 @@ void Oppgave1()
                 plotTitle = $"Nettoinnvandring fra {intervallStart} til {intervallSlutt}";
                 break;
         }
-
         counter += 1;
     }
-
 
     // Graftegning
     ScottPlot.Plot myPlot = new();
@@ -187,27 +149,19 @@ void Oppgave1()
     myPlot.Axes.Bottom.TickGenerator = new ScottPlot.TickGenerators.NumericManual(kategorier);
     myPlot.Axes.Bottom.TickLabelStyle.Rotation = -45;
     myPlot.Axes.Bottom.TickLabelStyle.Alignment = Alignment.MiddleRight;
-    myPlot.HideGrid();
-    myPlot.Axes.Margins(bottom: 0);
-
+    myPlot.Axes.Margins(left: 0.01, right: 0.01, bottom: 0.01);
 
     // Labels
     myPlot.XLabel("Årstall");
     myPlot.YLabel("Antall");
     myPlot.Title(plotTitle);
 
+    // Lagre
     myPlot.SavePng("graphs/stolpediagram.png", 1280, 720);
 }
 
-// Oppgave1();
+Oppgave1();
 
-
-/*
-Høy vanskelighetsgrad(karakter 5-6)
-	• Bruk regresjon i ScottPlot til å finne en lineær sammenheng for fødselstallene.
-		○ Lag en graf som viser den lineære sammenhengen sammen med de faktiske fødselstallene
-		○ Hvilke 5 år har fødselstall som skiller seg mest ut fra den lineære sammenhengen?
-*/
 
 void Oppgave2()
 {
@@ -237,26 +191,84 @@ void Oppgave2()
     line.LineWidth = 2;
     line.LinePattern = LinePattern.Dashed;
 
-
     // Ticks
     Tick[] ticks = new Tick[aar.Count];
     for (int i = 0; i < aar.Count; i++)
     {
-        ticks[i] = new Tick(aar[i], aar[i].ToString()); // Numeric position with string label
+        ticks[i] = new Tick(aar[i], aar[i].ToString());
     }
 
+    // Axes
     myPlot2.Axes.Bottom.TickGenerator = new ScottPlot.TickGenerators.NumericManual(ticks);
-    myPlot2.Axes.Bottom.TickLabelStyle.Rotation = -45; // Rotate labels for better visibility
+    myPlot2.Axes.Bottom.TickLabelStyle.Rotation = -45;
     myPlot2.Axes.Bottom.TickLabelStyle.Alignment = Alignment.MiddleRight;
+    myPlot2.Axes.Margins(left: 0.01, right: 0.01, bottom: 0.01);
+    myPlot2.Axes.SetLimits(top: 75000, bottom: 45000);
+
+    // Legend
+    myPlot2.Legend.IsVisible = true;
+    myPlot2.Legend.Alignment = Alignment.UpperRight;
+    myPlot2.Legend.ManualItems.Add(new() { LabelText = "Fødselstall", FillColor = Colors.Blue });
+    myPlot2.Legend.ManualItems.Add(new() { LabelText = "Lineær regresjon", FillColor = Colors.Orange });
 
     // Labels and Title
     myPlot2.XLabel("Årstall");
     myPlot2.YLabel("Antall fødsler");
     myPlot2.Title("Regresjonsanalyse av fødselstall mellom 1945 og 2024");
 
-
-    myPlot2.Title("Regresjonsanalyse av fodselstall mellom 1945 og 2024");
+    // Lagre
     myPlot2.SavePng("graphs/regresjon.png", 1280, 720);
 }
 
 Oppgave2();
+
+
+void Oppgave3()
+{
+    List<string> tiAar = new List<string>();
+    List<double> fodsler = new List<double>();
+    List<double> nettoInnvandring = new List<double>();
+
+    foreach (KeyValuePair<int, int> par in yearAndBorn)
+    {
+       if (par.Key % 10 == 0)
+       {
+            tiAar.Add(par.Key.ToString());
+            fodsler.Add(par.Value);
+            nettoInnvandring.Add((yearAndMoveIns[par.Key] - yearAndMoveOuts[par.Key]));
+       }
+    }
+
+    ScottPlot.Plot myPlot3 = new();
+    Tick[] aarstall = new Tick[tiAar.Count];
+    Bar[] stolper = new Bar[tiAar.Count * 2]; // dobbelt så mange søyler som utdanningsprogrammer
+
+
+    int posisjon = 0;
+    for (int i = 0; i < tiAar.Count; i++) // løkka lager en gruppe for hvert utdanningsprogram
+    {
+
+        stolper[2 * i] = new() { Position = posisjon, Value = fodsler[i], FillColor = Colors.Teal };
+        stolper[2 * i + 1] = new Bar { Position = posisjon + 1, Value = nettoInnvandring[i], FillColor = Colors.Orange };
+        aarstall[i] = new Tick(3 * i + 0.5, tiAar[i]);
+        posisjon += 3; // sørger for én ledig plass mellom hver gruppe
+    }
+
+    // Manuelt oppsett av legend:
+    myPlot3.Legend.IsVisible = true;
+    myPlot3.Legend.Alignment = Alignment.UpperRight;
+    myPlot3.Legend.ManualItems.Add(new() { LabelText = "Fødselstall", FillColor = Colors.Teal });
+    myPlot3.Legend.ManualItems.Add(new() { LabelText = "Nettoinnvandring", FillColor = Colors.Orange });
+
+    var stolpediagram = myPlot3.Add.Bars(stolper);
+    myPlot3.Axes.Bottom.TickGenerator = new ScottPlot.TickGenerators.NumericManual(aarstall);
+    myPlot3.Axes.Margins(left: 0.01, right: 0.01, bottom: 0.01);
+
+    myPlot3.XLabel("Årstall");
+    myPlot3.YLabel("Antall");
+    myPlot3.Title("Fødselstall og Nettoinnvandring hvert tiår");
+
+    myPlot3.SavePng("graphs/gruppert.png", 1280, 720);
+}
+
+Oppgave3();
