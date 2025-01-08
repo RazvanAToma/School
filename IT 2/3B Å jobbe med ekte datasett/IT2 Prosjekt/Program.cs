@@ -1,7 +1,6 @@
 ﻿using ScottPlot;
 using CsvHelper;
 using System.Globalization;
-using System.Diagnostics.Metrics;
 
 
 var reader = new StreamReader("Datasett_fodselstall_komma.csv");
@@ -198,7 +197,7 @@ void Oppgave2()
         ticks[i] = new Tick(aar[i], aar[i].ToString());
     }
 
-    // Axes
+    // Akser
     myPlot2.Axes.Bottom.TickGenerator = new ScottPlot.TickGenerators.NumericManual(ticks);
     myPlot2.Axes.Bottom.TickLabelStyle.Rotation = -45;
     myPlot2.Axes.Bottom.TickLabelStyle.Alignment = Alignment.MiddleRight;
@@ -218,9 +217,34 @@ void Oppgave2()
 
     // Lagre
     myPlot2.SavePng("graphs/regresjon.png", 1280, 720);
+
+
+    // Finne avvik
+    Dictionary<double, double> avvik = new Dictionary<double, double>();
+
+    for (int i = 0; i < aar.Count; i += 1)
+    {   
+        double forventetFodselstall = reg.GetValue(aar[i]);
+        double faktiskFodselstall = fodsler[i];
+        double differanse = Math.Abs(faktiskFodselstall - forventetFodselstall);
+
+        avvik[aar[0] + i] = differanse;
+    }
+
+    // Sortere Dictionary vha. kode fra StackOverflow
+    avvik = avvik.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
+
+
+    // Top 5
+    Dictionary<double, double> top5 = avvik.Take(5).ToDictionary();
+
+    foreach (KeyValuePair<double, double> par in top5)
+    {
+        Console.WriteLine($"{par.Key}, {Math.Round(par.Value)}");
+    }
 }
 
-Oppgave2();
+// Oppgave2();
 
 
 void Oppgave3()
@@ -271,4 +295,4 @@ void Oppgave3()
     myPlot3.SavePng("graphs/gruppert.png", 1280, 720);
 }
 
-Oppgave3();
+// Oppgave3();
