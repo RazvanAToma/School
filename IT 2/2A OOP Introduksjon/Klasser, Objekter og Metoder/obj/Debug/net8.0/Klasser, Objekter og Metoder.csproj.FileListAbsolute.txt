@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\bin\Debug\net8.0\Klasser, Objekter og Metoder.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\bin\Debug\net8.0\Klasser, Objekter og Metoder.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\bin\Debug\net8.0\Klasser, Objekter og Metoder.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\bin\Debug\net8.0\Klasser, Objekter og Metoder.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\bin\Debug\net8.0\Klasser, Objekter og Metoder.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\Klasser, Objekter og Metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\Klasser, Objekter og Metoder.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\Klasser, Objekter og Metoder.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\Klasser, Objekter og Metoder.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\Klasser, Objekter og Metoder.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\Klasser, Objekter og Metoder.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\refint\Klasser, Objekter og Metoder.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\Klasser, Objekter og Metoder.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\Klasser, Objekter og Metoder.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Klasser, Objekter og Metoder\obj\Debug\net8.0\ref\Klasser, Objekter og Metoder.dll

@@ -11,3 +11,5 @@ build_property.RootNamespace = Oppgave_4
 build_property.ProjectDir = C:\Users\razva\Documents\GitHub\School\IT 2\1B Valg og Betingelser\Blandede Oppgaver\Oppgave 4\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

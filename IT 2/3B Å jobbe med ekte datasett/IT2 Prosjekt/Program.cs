@@ -159,7 +159,7 @@ void Oppgave1()
     myPlot.SavePng("graphs/stolpediagram.png", 1280, 720);
 }
 
-Oppgave1();
+// Oppgave1();
 
 
 void Oppgave2()
@@ -253,14 +253,23 @@ void Oppgave3()
     List<double> fodsler = new List<double>();
     List<double> nettoInnvandring = new List<double>();
 
+    double fodselsSum = 0;
+    double nettoSum = 0;
+
     foreach (KeyValuePair<int, int> par in yearAndBorn)
     {
-       if (par.Key % 10 == 0)
-       {
+        fodselsSum += par.Value;
+        nettoSum += (yearAndMoveIns[par.Key] - yearAndMoveOuts[par.Key]);
+
+        if ((par.Key + 1) % 10 == 0)
+        {
             tiAar.Add(par.Key.ToString());
-            fodsler.Add(par.Value);
-            nettoInnvandring.Add((yearAndMoveIns[par.Key] - yearAndMoveOuts[par.Key]));
-       }
+            fodsler.Add(fodselsSum);
+            nettoInnvandring.Add(nettoSum);
+
+            fodselsSum = 0;
+            nettoSum = 0;
+        }
     }
 
     ScottPlot.Plot myPlot3 = new();
