@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\bin\Debug\net8.0\Oppgave 8.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\bin\Debug\net8.0\Oppgave 8.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\bin\Debug\net8.0\Oppgave 8.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\bin\Debug\net8.0\Oppgave 8.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\bin\Debug\net8.0\Oppgave 8.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\Oppgave 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\Oppgave 8.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\Oppgave 8.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\Oppgave 8.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\Oppgave 8.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\Oppgave 8.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\refint\Oppgave 8.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\Oppgave 8.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\Oppgave 8.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Oppgaver\Metoder\Oppgave 8\obj\Debug\net8.0\ref\Oppgave 8.dll

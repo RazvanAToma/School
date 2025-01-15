@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Klasser, Objekter og Metoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de94b128edf82de4a33836e9ad2add3c642c675")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db3e7cfd68a8e33fbf0dcc39fa22e5e43f840b55")]
 [assembly: System.Reflection.AssemblyProductAttribute("Klasser, Objekter og Metoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Klasser, Objekter og Metoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

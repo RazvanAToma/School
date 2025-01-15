@@ -17,4 +17,10 @@ public class Planet
         this.solavstand = solavstand;
         this.radius = radius;
     }
+
+    public double Volum()
+    {
+        double volum = (4 / 3) * Math.PI * Math.Pow(radius, 3);
+        return volum;
+    }
 }

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{81BB0EE3-F54D-4B3C-B448-89DC9638A72A}|Klasser, Objekter og Metoder.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\2a oop introduksjon\\klasser, objekter og metoder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81BB0EE3-F54D-4B3C-B448-89DC9638A72A}|Klasser, Objekter og Metoder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BB0EE3-F54D-4B3C-B448-89DC9638A72A}|Klasser, Objekter og Metoder.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\2a oop introduksjon\\klasser, objekter og metoder\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BB0EE3-F54D-4B3C-B448-89DC9638A72A}|Klasser, Objekter og Metoder.csproj|solutionrelative:planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\2A OOP Introduksjon\\Klasser, Objekter og Metoder\\Planet.cs",
+              "RelativeDocumentMoniker": "Planet.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\2A OOP Introduksjon\\Klasser, Objekter og Metoder\\Planet.cs",
+              "RelativeToolTip": "Planet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:35:12.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\2A OOP Introduksjon\\Klasser, Objekter og Metoder\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T09:50:54.478Z",
               "EditorCaption": ""
