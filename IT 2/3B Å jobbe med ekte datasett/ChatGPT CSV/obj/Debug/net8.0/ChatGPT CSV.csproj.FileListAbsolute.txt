@@ -1,0 +1,18 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\bin\Debug\net8.0\ChatGPT CSV.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\bin\Debug\net8.0\ChatGPT CSV.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\bin\Debug\net8.0\ChatGPT CSV.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\bin\Debug\net8.0\ChatGPT CSV.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\bin\Debug\net8.0\ChatGPT CSV.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT CSV.csproj.AssemblyReference.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT CSV.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT CSV.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT CSV.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT CSV.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT .1DD2DE1F.Up2Date
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT CSV.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\refint\ChatGPT CSV.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT CSV.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ChatGPT CSV.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\3B Å jobbe med ekte datasett\ChatGPT CSV\obj\Debug\net8.0\ref\ChatGPT CSV.dll

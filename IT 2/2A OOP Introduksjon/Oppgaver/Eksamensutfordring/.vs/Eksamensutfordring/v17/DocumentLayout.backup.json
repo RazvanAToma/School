@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\2A OOP Introduksjon\\Oppgaver\\Eksamensutfordring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68390F63-A274-478A-8FE2-82B305003E47}|Eksamensutfordring.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\2a oop introduksjon\\oppgaver\\eksamensutfordring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68390F63-A274-478A-8FE2-82B305003E47}|Eksamensutfordring.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68390F63-A274-478A-8FE2-82B305003E47}|Eksamensutfordring.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\2a oop introduksjon\\oppgaver\\eksamensutfordring\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68390F63-A274-478A-8FE2-82B305003E47}|Eksamensutfordring.csproj|solutionrelative:battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Battery.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\2A OOP Introduksjon\\Oppgaver\\Eksamensutfordring\\Battery.cs",
+              "RelativeDocumentMoniker": "Battery.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\2A OOP Introduksjon\\Oppgaver\\Eksamensutfordring\\Battery.cs",
+              "RelativeToolTip": "Battery.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:53:03.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\2A OOP Introduksjon\\Oppgaver\\Eksamensutfordring\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\2A OOP Introduksjon\\Oppgaver\\Eksamensutfordring\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:52:35.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

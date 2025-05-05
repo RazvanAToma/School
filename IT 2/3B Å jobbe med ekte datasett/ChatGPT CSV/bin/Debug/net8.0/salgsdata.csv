@@ -1,0 +1,101 @@
+Dato,KundeID,Produkt,Kategori,Antall,PrisPerEnhet,TotalPris,Betalingsmetode
+2024-02-25,K8274,Sony WH-1000XM5,Hodetelefoner,1,5211.55,5211.55,PayPal
+2024-04-30,K5924,Sony WH-1000XM5,Hodetelefoner,3,6661.13,19983.39,Vipps
+2024-04-12,K4901,Sony WH-1000XM5,Hodetelefoner,3,6454.05,19362.15,PayPal
+2024-04-07,K8687,iPad Pro,Nettbrett,3,15681.52,47044.56,Faktura
+2024-01-10,K9530,iPhone 14,Mobiltelefon,1,6045.9,6045.9,PayPal
+2024-04-29,K1546,Fitbit Charge 5,Smartklokke,3,13744.38,41233.14,Faktura
+2024-02-08,K9111,Samsung Galaxy Tab S8,Nettbrett,1,14240.6,14240.6,Faktura
+2024-02-01,K7962,Apple Watch Series 8,Smartklokke,1,19120.94,19120.94,Vipps
+2024-02-01,K9583,iPad Pro,Nettbrett,3,13591.17,40773.51,Faktura
+2024-02-03,K9606,Samsung Galaxy Tab S8,Nettbrett,1,6115.88,6115.88,Kredittkort
+2024-01-21,K5646,Fitbit Charge 5,Smartklokke,3,10005.02,30015.06,PayPal
+2024-03-26,K7189,Bose QuietComfort 45,Hodetelefoner,2,1700.95,3401.9,Faktura
+2024-01-05,K3474,iPad Pro,Nettbrett,3,14137.14,42411.42,Vipps
+2024-01-20,K9675,Samsung Galaxy Tab S8,Nettbrett,3,1403.9,4211.7,Vipps
+2024-03-03,K5692,Dell XPS 13,Laptop,3,4343.83,13031.49,Faktura
+2024-03-04,K8864,iPad Pro,Nettbrett,3,9570.66,28711.98,Faktura
+2024-02-03,K9508,Samsung Galaxy S22,Mobiltelefon,3,14957.24,44871.72,Faktura
+2024-03-24,K3699,MacBook Air,Laptop,2,10145.39,20290.78,PayPal
+2024-04-22,K1005,iPad Pro,Nettbrett,2,4016.17,8032.34,PayPal
+2024-01-20,K4882,Samsung Galaxy S22,Mobiltelefon,1,7500.65,7500.65,Kredittkort
+2024-02-22,K3257,Samsung Galaxy S22,Mobiltelefon,1,10247.3,10247.3,Kredittkort
+2024-04-12,K9894,Bose QuietComfort 45,Hodetelefoner,1,14786.52,14786.52,Kredittkort
+2024-02-04,K4449,Dell XPS 13,Laptop,1,923.24,923.24,Vipps
+2024-04-04,K4729,iPad Pro,Nettbrett,2,1488.6,2977.2,Faktura
+2024-02-17,K4199,iPhone 14,Mobiltelefon,1,5172.6,5172.6,PayPal
+2024-02-13,K8262,iPad Pro,Nettbrett,3,12919.18,38757.54,Kredittkort
+2024-03-08,K2929,Apple Watch Series 8,Smartklokke,3,1255.75,3767.25,PayPal
+2024-04-05,K1610,Bose QuietComfort 45,Hodetelefoner,1,1830.82,1830.82,Faktura
+2024-03-26,K7745,Fitbit Charge 5,Smartklokke,3,6014.73,18044.19,PayPal
+2024-03-26,K4544,Samsung Galaxy Tab S8,Nettbrett,3,3126.68,9380.04,Vipps
+2024-04-26,K8767,Samsung Galaxy S22,Mobiltelefon,3,11783.49,35350.47,Vipps
+2024-01-03,K7731,iPad Pro,Nettbrett,3,12704.47,38113.41,Vipps
+2024-01-07,K6046,Samsung Galaxy S22,Mobiltelefon,2,6649.67,13299.34,Faktura
+2024-03-23,K4462,Samsung Galaxy Tab S8,Nettbrett,2,12431.88,24863.76,Faktura
+2024-01-15,K2420,Dell XPS 13,Laptop,2,18158.28,36316.56,Kredittkort
+2024-01-01,K4016,MacBook Air,Laptop,2,17156.19,34312.38,Kredittkort
+2024-03-17,K8222,iPad Pro,Nettbrett,2,15600.46,31200.92,Faktura
+2024-03-30,K6701,iPad Pro,Nettbrett,3,18857.75,56573.25,PayPal
+2024-04-23,K3408,Apple Watch Series 8,Smartklokke,2,11707.03,23414.06,PayPal
+2024-04-13,K2430,iPad Pro,Nettbrett,2,5132.45,10264.9,Faktura
+2024-03-10,K9680,Sony WH-1000XM5,Hodetelefoner,2,5494.61,10989.22,Vipps
+2024-04-16,K5480,iPad Pro,Nettbrett,2,19969.17,39938.34,PayPal
+2024-01-26,K2547,iPad Pro,Nettbrett,1,2547.06,2547.06,Kredittkort
+2024-01-30,K1553,Samsung Galaxy Tab S8,Nettbrett,2,17793.1,35586.2,Faktura
+2024-02-26,K9971,Samsung Galaxy S22,Mobiltelefon,1,6853.78,6853.78,Kredittkort
+2024-02-03,K7530,Sony WH-1000XM5,Hodetelefoner,1,15659.09,15659.09,Kredittkort
+2024-01-18,K5267,iPad Pro,Nettbrett,2,1455.55,2911.1,Faktura
+2024-03-15,K3027,Sony WH-1000XM5,Hodetelefoner,1,8015.83,8015.83,PayPal
+2024-01-07,K5569,Dell XPS 13,Laptop,1,5280.96,5280.96,PayPal
+2024-03-03,K1191,Samsung Galaxy Tab S8,Nettbrett,2,15329.88,30659.76,Vipps
+2024-04-19,K2577,Dell XPS 13,Laptop,1,2600.12,2600.12,Faktura
+2024-02-26,K3897,Sony WH-1000XM5,Hodetelefoner,1,14558.29,14558.29,Vipps
+2024-01-18,K8248,Sony WH-1000XM5,Hodetelefoner,3,7381.4,22144.2,Faktura
+2024-01-14,K7321,Sony WH-1000XM5,Hodetelefoner,2,9953.53,19907.06,Kredittkort
+2024-02-09,K9267,Samsung Galaxy Tab S8,Nettbrett,1,6997.24,6997.24,Vipps
+2024-04-22,K5447,Apple Watch Series 8,Smartklokke,3,15029.57,45088.71,Vipps
+2024-03-14,K5636,Fitbit Charge 5,Smartklokke,1,12008.71,12008.71,Faktura
+2024-04-22,K6893,iPad Pro,Nettbrett,1,9611.21,9611.21,Faktura
+2024-04-24,K8910,Apple Watch Series 8,Smartklokke,3,15821.96,47465.88,PayPal
+2024-04-25,K1303,Dell XPS 13,Laptop,2,14937.04,29874.08,PayPal
+2024-01-07,K8075,Bose QuietComfort 45,Hodetelefoner,3,8269.22,24807.66,Kredittkort
+2024-04-20,K9123,iPhone 14,Mobiltelefon,2,4539.86,9079.72,Vipps
+2024-03-28,K3411,MacBook Air,Laptop,1,3998.69,3998.69,Faktura
+2024-01-06,K7548,Samsung Galaxy Tab S8,Nettbrett,1,2085.98,2085.98,Faktura
+2024-03-13,K1301,Sony WH-1000XM5,Hodetelefoner,1,1023.67,1023.67,Faktura
+2024-02-10,K9152,Apple Watch Series 8,Smartklokke,2,2853.16,5706.32,Faktura
+2024-01-22,K3664,MacBook Air,Laptop,2,11095.2,22190.4,Kredittkort
+2024-04-18,K7139,Fitbit Charge 5,Smartklokke,2,12174.03,24348.06,PayPal
+2024-01-12,K7961,iPhone 14,Mobiltelefon,1,7602.15,7602.15,Kredittkort
+2024-01-14,K2993,Samsung Galaxy S22,Mobiltelefon,3,5125.03,15375.09,PayPal
+2024-02-14,K8630,Apple Watch Series 8,Smartklokke,3,5085.99,15257.97,Vipps
+2024-02-23,K1036,iPhone 14,Mobiltelefon,3,15089.43,45268.29,Kredittkort
+2024-01-23,K8165,Dell XPS 13,Laptop,3,1197.24,3591.72,Vipps
+2024-04-04,K5339,Samsung Galaxy S22,Mobiltelefon,1,12718.15,12718.15,Kredittkort
+2024-02-06,K6835,Bose QuietComfort 45,Hodetelefoner,1,2961.16,2961.16,PayPal
+2024-03-25,K9785,MacBook Air,Laptop,3,5995.59,17986.77,Vipps
+2024-01-27,K1174,Samsung Galaxy Tab S8,Nettbrett,1,1847.6,1847.6,Faktura
+2024-04-03,K2842,Fitbit Charge 5,Smartklokke,1,11083.63,11083.63,Faktura
+2024-01-04,K3636,iPhone 14,Mobiltelefon,3,12877.73,38633.19,PayPal
+2024-03-30,K7801,MacBook Air,Laptop,1,13002.21,13002.21,PayPal
+2024-01-01,K3546,Bose QuietComfort 45,Hodetelefoner,1,19544.67,19544.67,Vipps
+2024-03-24,K4131,MacBook Air,Laptop,3,15976.68,47930.04,Kredittkort
+2024-03-01,K6136,Sony WH-1000XM5,Hodetelefoner,1,13159.95,13159.95,Vipps
+2024-04-19,K1647,MacBook Air,Laptop,2,602.89,1205.78,Faktura
+2024-02-14,K3180,Apple Watch Series 8,Smartklokke,1,2049.23,2049.23,Faktura
+2024-04-14,K1438,Sony WH-1000XM5,Hodetelefoner,2,8318.46,16636.92,Kredittkort
+2024-01-11,K7486,iPad Pro,Nettbrett,1,13780.73,13780.73,PayPal
+2024-02-20,K2778,Sony WH-1000XM5,Hodetelefoner,3,18598.85,55796.55,Kredittkort
+2024-01-18,K2118,Samsung Galaxy Tab S8,Nettbrett,3,1597.03,4791.09,Kredittkort
+2024-03-18,K9569,Dell XPS 13,Laptop,1,17780.06,17780.06,Vipps
+2024-01-18,K1456,Bose QuietComfort 45,Hodetelefoner,1,10257.66,10257.66,PayPal
+2024-04-24,K1466,Apple Watch Series 8,Smartklokke,1,11628.88,11628.88,Kredittkort
+2024-03-03,K3275,Apple Watch Series 8,Smartklokke,1,6043.0,6043.0,Kredittkort
+2024-03-02,K8841,MacBook Air,Laptop,2,3456.12,6912.24,Kredittkort
+2024-04-06,K8346,Samsung Galaxy S22,Mobiltelefon,3,8897.81,26693.43,Vipps
+2024-04-23,K4588,Dell XPS 13,Laptop,3,14472.38,43417.14,Faktura
+2024-03-17,K7679,Bose QuietComfort 45,Hodetelefoner,3,9354.17,28062.51,Kredittkort
+2024-01-02,K7700,Dell XPS 13,Laptop,1,4091.08,4091.08,Kredittkort
+2024-03-14,K5002,Dell XPS 13,Laptop,1,11054.99,11054.99,Kredittkort
+2024-01-07,K6585,MacBook Air,Laptop,2,15398.26,30796.52,Faktura

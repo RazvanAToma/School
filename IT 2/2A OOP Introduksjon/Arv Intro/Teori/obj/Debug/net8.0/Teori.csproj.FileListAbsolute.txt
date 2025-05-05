@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\bin\Debug\net8.0\Teori.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\bin\Debug\net8.0\Teori.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\bin\Debug\net8.0\Teori.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\bin\Debug\net8.0\Teori.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\bin\Debug\net8.0\Teori.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\Teori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\Teori.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\Teori.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\Teori.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\Teori.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\Teori.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\refint\Teori.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\Teori.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\Teori.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\2A OOP Introduksjon\Arv Intro\Teori\obj\Debug\net8.0\ref\Teori.dll

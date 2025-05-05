@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\bin\Debug\net8.0\H23 - TestDokument.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\bin\Debug\net8.0\H23 - TestDokument.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\bin\Debug\net8.0\H23 - TestDokument.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\bin\Debug\net8.0\H23 - TestDokument.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\bin\Debug\net8.0\H23 - TestDokument.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\H23 - TestDokument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\H23 - TestDokument.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\H23 - TestDokument.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\H23 - TestDokument.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\H23 - TestDokument.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\H23 - TestDokument.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\refint\H23 - TestDokument.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\H23 - TestDokument.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\H23 - TestDokument.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\H23 - TestDokument\obj\Debug\net8.0\ref\H23 - TestDokument.dll
