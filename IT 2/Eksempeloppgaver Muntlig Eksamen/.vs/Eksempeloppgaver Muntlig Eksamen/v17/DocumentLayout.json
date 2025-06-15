@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Eksempeloppgaver Muntlig Eksamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{329D2BFD-04A7-40D4-852E-4BBBD8CA9FC8}|Eksempeloppgaver Muntlig Eksamen.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\eksempeloppgaver muntlig eksamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329D2BFD-04A7-40D4-852E-4BBBD8CA9FC8}|Eksempeloppgaver Muntlig Eksamen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329D2BFD-04A7-40D4-852E-4BBBD8CA9FC8}|Eksempeloppgaver Muntlig Eksamen.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\eksempeloppgaver muntlig eksamen\\\u00F8ving 9 klassen elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329D2BFD-04A7-40D4-852E-4BBBD8CA9FC8}|Eksempeloppgaver Muntlig Eksamen.csproj|solutionrelative:\u00F8ving 9 klassen elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329D2BFD-04A7-40D4-852E-4BBBD8CA9FC8}|Eksempeloppgaver Muntlig Eksamen.csproj|c:\\users\\razva\\documents\\github\\school\\it 2\\eksempeloppgaver muntlig eksamen\\\u00F8ving 8 if setninger og logikk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329D2BFD-04A7-40D4-852E-4BBBD8CA9FC8}|Eksempeloppgaver Muntlig Eksamen.csproj|solutionrelative:\u00F8ving 8 if setninger og logikk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u00D8ving 9 Klassen Elev.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Eksempeloppgaver Muntlig Eksamen\\\u00D8ving 9 Klassen Elev.cs",
+              "RelativeDocumentMoniker": "\u00D8ving 9 Klassen Elev.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Eksempeloppgaver Muntlig Eksamen\\\u00D8ving 9 Klassen Elev.cs",
+              "RelativeToolTip": "\u00D8ving 9 Klassen Elev.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:22:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u00D8ving 8 if setninger og logikk.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Eksempeloppgaver Muntlig Eksamen\\\u00D8ving 8 if setninger og logikk.cs",
+              "RelativeDocumentMoniker": "\u00D8ving 8 if setninger og logikk.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Eksempeloppgaver Muntlig Eksamen\\\u00D8ving 8 if setninger og logikk.cs",
+              "RelativeToolTip": "\u00D8ving 8 if setninger og logikk.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:13:47.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Eksempeloppgaver Muntlig Eksamen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\School\\IT 2\\Eksempeloppgaver Muntlig Eksamen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAANoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:56:01.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

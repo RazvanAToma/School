@@ -4,10 +4,10 @@ import numpy as np
 # startinformasjon:
 m = 0.200 # kg
 g = 9.81 # m/s^2
-k = 0.02 # luftmotstandskoeffisient
-v0 = 15 # m/s
+k = 0 # luftmotstandskoeffisient
+v0 = 30 # m/s
 x0 = 0 # m
-y0 = 5 # m
+y0 = 0.01 # m
 alfa = 30 # grader
 dt = 0.01 # sekunder
 
@@ -35,10 +35,10 @@ while y > 0: # lander når y = 0
     ax = Fx/m
     ay = Fy/m
 
-    vx = vx + ax*dt
-    vy = vy + ay*dt
-    x = x + vx*dt
-    y = y + vy*dt
+    vx += ax*dt
+    vy += ay*dt
+    x += vx*dt
+    y += vy*dt
 
     X.append(x)
     Y.append(y)

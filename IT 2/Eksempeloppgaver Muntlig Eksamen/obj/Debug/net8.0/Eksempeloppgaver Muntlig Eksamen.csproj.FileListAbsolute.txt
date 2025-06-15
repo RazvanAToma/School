@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\bin\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\bin\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\bin\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\bin\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\bin\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\refint\Eksempeloppgaver Muntlig Eksamen.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\Eksempeloppgaver Muntlig Eksamen.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Eksempeloppgaver Muntlig Eksamen\obj\Debug\net8.0\ref\Eksempeloppgaver Muntlig Eksamen.dll

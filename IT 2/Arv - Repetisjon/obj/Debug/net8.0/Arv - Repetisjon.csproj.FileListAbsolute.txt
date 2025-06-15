@@ -1,0 +1,15 @@
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\bin\Debug\net8.0\Arv - Repetisjon.exe
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\bin\Debug\net8.0\Arv - Repetisjon.deps.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\bin\Debug\net8.0\Arv - Repetisjon.runtimeconfig.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\bin\Debug\net8.0\Arv - Repetisjon.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\bin\Debug\net8.0\Arv - Repetisjon.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\Arv - Repetisjon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\Arv - Repetisjon.AssemblyInfoInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\Arv - Repetisjon.AssemblyInfo.cs
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\Arv - Repetisjon.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\Arv - Repetisjon.sourcelink.json
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\Arv - Repetisjon.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\refint\Arv - Repetisjon.dll
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\Arv - Repetisjon.pdb
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\Arv - Repetisjon.genruntimeconfig.cache
+C:\Users\razva\Documents\GitHub\School\IT 2\Arv - Repetisjon\obj\Debug\net8.0\ref\Arv - Repetisjon.dll
